@@ -1,16 +1,20 @@
 {
-  "packs": [
-    {
-      "id": "computacion-ia",
-      "archivo": "computacion-ia.json"
-    },
-    {
-      "id": "ciberseguridad",
-      "archivo": "ciberseguridad.json"
-    },
-    {
-      "id": "cs-business",
-      "archivo": "cs-business.json"
-    }
-  ]
+ "packs": [
+  {
+   "id": "computacion-ia",
+   "archivo": "computacion-ia.json"
+  },
+  {
+   "id": "ciberseguridad",
+   "archivo": "ciberseguridad.json"
+  },
+  {
+   "id": "cs-business",
+   "archivo": "cs-business.json"
+  },
+  {
+   "id": "catalogo-qs",
+   "archivo": "catalogo-qs.json"
+  }
+ ]
 }

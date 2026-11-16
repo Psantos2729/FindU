@@ -1,0 +1,76 @@
+{
+ "id": "south-china-university-of-technology",
+ "nombre": "South China University of Technology",
+ "ciudad": "Guangzhou",
+ "pais": "China",
+ "sitio_web": "http://www.scut.edu.cn",
+ "carreras": [
+  {
+   "nombre": "Computer Science (programa exacto por confirmar)",
+   "areas": [
+    "computer-science"
+   ],
+   "idioma": null,
+   "duracion_anios": null,
+   "url": "http://www.scut.edu.cn"
+  },
+  {
+   "nombre": "Ingeniería eléctrica y electrónica (QS EEE) (programa exacto por confirmar)",
+   "areas": [
+    "computer-engineering"
+   ],
+   "idioma": null,
+   "duracion_anios": null,
+   "url": "http://www.scut.edu.cn"
+  }
+ ],
+ "costo_anual": {
+  "matricula": {
+   "valor": null
+  },
+  "moneda": null,
+  "anio_academico": null,
+  "nota": null
+ },
+ "aceptacion": {
+  "tasa_pct": {
+   "valor": null
+  },
+  "ambito": null
+ },
+ "rankings": {
+  "mundial": {
+   "posicion": null
+  },
+  "especialidad": {
+   "sistema": "QS 2026 Electrical & Electronic Engineering",
+   "anio": 2026,
+   "posicion": "201–250",
+   "fuente": "https://www.topuniversities.com/university-subject-rankings",
+   "verificado_en": "2026-11-16"
+  }
+ },
+ "requisitos": {
+  "sat": {},
+  "ingles": {},
+  "gpa_referencia": null,
+  "tipo_admision": null,
+  "nota": "Requisitos pendientes de barrido."
+ },
+ "becas": [],
+ "fotos_busqueda": "South China University of Technology campus",
+ "fotos": [],
+ "fotos_enlace": "https://commons.wikimedia.org/wiki/Special:FilePath/South%20China%20University%20of%20Technology%20South%20Gate.jpg",
+ "alertas": [
+  {
+   "nivel": "tomar-en-cuenta",
+   "texto": "Ficha base: ranking QS tomado del CSV; costos, aceptación y requisitos sin verificar."
+  }
+ ],
+ "sin_dato": {
+  "costo_anual": "Sin dato: pendiente de barrido; no verificado en fuente oficial",
+  "becas": "Sin dato: pendiente de barrido; no verificado en fuente oficial",
+  "aceptacion.tasa_pct": "Sin dato: pendiente de barrido; no verificado en fuente oficial",
+  "rankings.mundial": "Sin dato: pendiente de barrido; no verificado en fuente oficial"
+ }
+}

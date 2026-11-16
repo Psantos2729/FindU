@@ -1,0 +1,35 @@
+{
+ "ror_id": "041kmwe10",
+ "costo_anual": {
+  "matricula": {
+   "valor": null,
+   "fuente": "https://www.imperial.ac.uk/study/fees-and-funding/",
+   "verificado_en": "2026-11-16"
+  },
+  "matricula_rango": null,
+  "moneda": null,
+  "anio_academico": null,
+  "nota": "Las tasas se publican por curso en el buscador de cursos; el texto leído no trae cifras.",
+  "aproximado": false
+ },
+ "becas": [
+  {
+   "nombre": "Imperial Inspires Scholarships",
+   "cobertura": "Programa de becas para estudiantes talentosos de todo el mundo; sin montos ni criterios en el texto leído",
+   "url": "https://www.imperial.ac.uk/study/fees-and-funding/"
+  },
+  {
+   "nombre": "Imperial Bursary",
+   "cobertura": "Ayuda financiera listada en el apartado de pregrado; sin montos ni criterios en el texto leído",
+   "url": "https://www.imperial.ac.uk/study/fees-and-funding/"
+  },
+  {
+   "nombre": "Sanctuary scholarships for displaced students",
+   "cobertura": "Becas para estudiantes desplazados; sin montos en el texto leído",
+   "url": "https://www.imperial.ac.uk/study/fees-and-funding/"
+  }
+ ],
+ "sin_dato": {
+  "costo_anual": "Sin dato: la matrícula se publica por curso y el texto leído no incluye cifras."
+ }
+}

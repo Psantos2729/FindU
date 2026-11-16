@@ -1,0 +1,96 @@
+{
+ "id": "shanghai-jiao-tong-university",
+ "nombre": "Shanghai Jiao Tong University",
+ "ciudad": "Shanghai",
+ "pais": "China",
+ "sitio_web": "https://www.sjtu.edu.cn",
+ "carreras": [
+  {
+   "nombre": "Computer Science (programa exacto por confirmar)",
+   "areas": [
+    "computer-science"
+   ],
+   "idioma": null,
+   "duracion_anios": null,
+   "url": "https://www.sjtu.edu.cn"
+  },
+  {
+   "nombre": "Data Science e IA (programa exacto por confirmar)",
+   "areas": [
+    "data-science",
+    "inteligencia-artificial"
+   ],
+   "idioma": null,
+   "duracion_anios": null,
+   "url": "https://www.sjtu.edu.cn"
+  },
+  {
+   "nombre": "Ingeniería eléctrica y electrónica (QS EEE) (programa exacto por confirmar)",
+   "areas": [
+    "computer-engineering"
+   ],
+   "idioma": null,
+   "duracion_anios": null,
+   "url": "https://www.sjtu.edu.cn"
+  }
+ ],
+ "costo_anual": {
+  "matricula": {
+   "valor": null,
+   "fuente": "https://www.sjtu.edu.cn",
+   "verificado_en": "2026-11-16"
+  },
+  "moneda": null,
+  "anio_academico": null,
+  "nota": null
+ },
+ "aceptacion": {
+  "tasa_pct": {
+   "valor": null
+  },
+  "ambito": null
+ },
+ "rankings": {
+  "mundial": {
+   "posicion": null
+  },
+  "especialidad": {
+   "sistema": "QS 2026 Computer Science",
+   "anio": 2026,
+   "posicion": 23,
+   "fuente": "https://www.topuniversities.com/university-subject-rankings",
+   "verificado_en": "2026-11-16"
+  }
+ },
+ "requisitos": {
+  "sat": {},
+  "ingles": {},
+  "gpa_referencia": null,
+  "tipo_admision": null,
+  "nota": "Requisitos pendientes de barrido."
+ },
+ "becas": [
+  {
+   "nombre": "Beca Kechuang Bozhong (科创播种计划) del Fondo SJTU-Zizhu Xiaomiao",
+   "cobertura": "Aviso de creación de la beca y apertura de primera solicitud; público objetivo no indicado en el titular leído",
+   "convocatoria": null,
+   "via_indesgua": null,
+   "url": "https://www.sjtu.edu.cn",
+   "verificado_en": "2026-11-16"
+  }
+ ],
+ "fotos_busqueda": "Shanghai Jiao Tong University campus",
+ "fotos": [],
+ "fotos_enlace": "https://commons.wikimedia.org/wiki/Special:FilePath/Shanghai%20Jiao%20Tong%20University%201.jpg",
+ "alertas": [
+  {
+   "nivel": "tomar-en-cuenta",
+   "texto": "Ficha base: ranking QS tomado del CSV; costos, aceptación y requisitos sin verificar."
+  }
+ ],
+ "sin_dato": {
+  "costo_anual": "Sin dato: la página principal no muestra tasas de matrícula.",
+  "aceptacion.tasa_pct": "Sin dato: pendiente de barrido; no verificado en fuente oficial",
+  "rankings.mundial": "Sin dato: pendiente de barrido; no verificado en fuente oficial"
+ }
+}

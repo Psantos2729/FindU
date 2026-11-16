@@ -62,9 +62,11 @@ def revisar_universidad(uni, monedas):
     revisar_dato(costo.get("matricula"), "costo_anual.matricula", uni, errores, razon="costo_anual")
     if costo.get("vida", {}).get("valor") is not None:
         revisar_dato(costo["vida"], "costo_anual.vida", uni, errores)
-    if costo.get("moneda") not in monedas:
+    # Sin cifra ni rango no hay moneda ni año que validar (ficha en barrido pendiente).
+    hay_cifra = (costo.get("matricula") or {}).get("valor") is not None or costo.get("matricula_rango")
+    if hay_cifra and costo.get("moneda") not in monedas:
         errores.append(f"costo_anual.moneda: {costo.get('moneda')} no está en data/tipos_cambio.json")
-    if not costo.get("anio_academico"):
+    if hay_cifra and not costo.get("anio_academico"):
         errores.append("costo_anual.anio_academico: falta")
 
     revisar_dato(uni["aceptacion"].get("tasa_pct"), "aceptacion.tasa_pct", uni, errores)

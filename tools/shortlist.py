@@ -53,13 +53,19 @@ def posicion(txt):
 
 
 def leer(ruta):
-    """Devuelve filas con nombre/pais/posicion, o None si falta la columna nombre."""
+    """Filas con nombre/pais/posicion. Acepta cabeceras 'Nombre/País/Posición'
+    o las de QS en inglés ('INSTITUTION', 'COUNTRY/TERRITORY', año en la 1a columna)."""
     with open(ruta, encoding="utf-8-sig", newline="") as f:
         filas = list(csv.reader(f))
     for i, fila in enumerate(filas):
         cab = [clave(c) for c in fila]
-        if "nombre" in cab and "posicion" in cab:
-            return [dict(zip(cab, r)) for r in filas[i + 1:] if any(r)]
+        n = next((j for j, c in enumerate(cab) if c in ("nombre", "institution")), None)
+        if n is None:
+            continue
+        pa = next((j for j, c in enumerate(cab) if c in ("pais", "country territory")), None)
+        po = cab.index("posicion") if "posicion" in cab else 0
+        return [{"nombre": r[n], "pais": r[pa] if pa is not None else "", "posicion": r[po]}
+                for r in filas[i + 1:] if len(r) > n and r[n]]
     return None
 
 
@@ -73,9 +79,10 @@ def main():
         por_n.setdefault(clave(u["nombre"]), []).append(u)
     cand, falta, sin_match = {}, [], 0
 
-    def agregar(u, area, pos):
-        e = cand.setdefault(u["ror_id"], {**u, "areas": {}})
+    def agregar(u, area, pos, texto=""):
+        e = cand.setdefault(u["ror_id"], {**u, "areas": {}, "pos_texto": {}})
         e["areas"][area] = pos
+        e["pos_texto"][area] = texto
 
     for arch, area in ARCHIVOS.items():
         ruta = os.path.join(RAIZ, "rankings", arch)
@@ -89,7 +96,7 @@ def main():
         for fila in filas:
             u = buscar(fila["nombre"], fila.get("pais", ""), por_pais)
             if u:
-                agregar(u, area, posicion(fila["posicion"]))
+                agregar(u, area, posicion(fila["posicion"]), fila["posicion"].strip())
             else:
                 sin_match += 1
     if os.path.exists(GAME):

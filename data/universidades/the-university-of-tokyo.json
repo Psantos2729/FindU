@@ -1,0 +1,88 @@
+{
+ "id": "the-university-of-tokyo",
+ "nombre": "The University of Tokyo",
+ "ciudad": "Tokyo",
+ "pais": "Japan",
+ "sitio_web": "https://www.u-tokyo.ac.jp",
+ "carreras": [
+  {
+   "nombre": "Computer Science (programa exacto por confirmar)",
+   "areas": [
+    "computer-science"
+   ],
+   "idioma": null,
+   "duracion_anios": null,
+   "url": "https://www.u-tokyo.ac.jp"
+  },
+  {
+   "nombre": "Data Science e IA (programa exacto por confirmar)",
+   "areas": [
+    "data-science",
+    "inteligencia-artificial"
+   ],
+   "idioma": null,
+   "duracion_anios": null,
+   "url": "https://www.u-tokyo.ac.jp"
+  },
+  {
+   "nombre": "Ingeniería eléctrica y electrónica (QS EEE) (programa exacto por confirmar)",
+   "areas": [
+    "computer-engineering"
+   ],
+   "idioma": null,
+   "duracion_anios": null,
+   "url": "https://www.u-tokyo.ac.jp"
+  }
+ ],
+ "costo_anual": {
+  "matricula": {
+   "valor": null,
+   "fuente": "https://www.u-tokyo.ac.jp",
+   "verificado_en": "2026-11-16"
+  },
+  "moneda": null,
+  "anio_academico": null,
+  "nota": null
+ },
+ "aceptacion": {
+  "tasa_pct": {
+   "valor": null
+  },
+  "ambito": null
+ },
+ "rankings": {
+  "mundial": {
+   "posicion": null
+  },
+  "especialidad": {
+   "sistema": "QS 2026 Computer Science",
+   "anio": 2026,
+   "posicion": 18,
+   "fuente": "https://www.topuniversities.com/university-subject-rankings",
+   "verificado_en": "2026-11-16"
+  }
+ },
+ "requisitos": {
+  "sat": {},
+  "ingles": {},
+  "gpa_referencia": null,
+  "tipo_admision": null,
+  "nota": "Requisitos pendientes de barrido."
+ },
+ "becas": [],
+ "fotos_busqueda": "The University of Tokyo campus",
+ "fotos": [],
+ "fotos_enlace": "https://commons.wikimedia.org/wiki/Special:FilePath/Yasuda%20Auditorium%20-%20Tokyo%20University%203.jpg",
+ "alertas": [
+  {
+   "nivel": "tomar-en-cuenta",
+   "texto": "Ficha base: ranking QS tomado del CSV; costos, aceptación y requisitos sin verificar."
+  }
+ ],
+ "sin_dato": {
+  "costo_anual": "Sin dato: la descarga de la página oficial falló (bloqueo 403, certificado SSL o conexión cerrada); no se buscó otra ruta",
+  "becas": "Sin dato: la descarga de la página oficial falló (bloqueo 403, certificado SSL o conexión cerrada); no se buscó otra ruta",
+  "aceptacion.tasa_pct": "Sin dato: pendiente de barrido; no verificado en fuente oficial",
+  "rankings.mundial": "Sin dato: pendiente de barrido; no verificado en fuente oficial"
+ }
+}

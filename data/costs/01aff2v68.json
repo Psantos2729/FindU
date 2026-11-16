@@ -1,0 +1,20 @@
+{
+ "ror_id": "01aff2v68",
+ "costo_anual": {
+  "matricula": {
+   "valor": null,
+   "fuente": "https://uwaterloo.ca/",
+   "verificado_en": "2026-11-16"
+  },
+  "matricula_rango": null,
+  "moneda": null,
+  "anio_academico": null,
+  "nota": null,
+  "aproximado": false
+ },
+ "becas": [],
+ "sin_dato": {
+  "costo_anual": "Sin dato: la descarga de la página oficial falló (bloqueo 403, certificado SSL o conexión cerrada); no se buscó otra ruta",
+  "becas": "Sin dato: la descarga de la página oficial falló (bloqueo 403, certificado SSL o conexión cerrada); no se buscó otra ruta"
+ }
+}

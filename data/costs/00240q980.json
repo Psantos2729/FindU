@@ -7,10 +7,10 @@
    "verificado_en": "2026-11-16"
   },
   "matricula_rango": {
-   "min": 930,
+   "min": 2790,
    "max": 2990,
-   "nota": "Tasa fija todo incluido para estudiantes con ciudadanía fuera de la UE y no residentes en Italia, 2026/27: grupo A (Humanidades) 2790 EUR (A1) y 930 EUR (A2, países de bajo IDH); grupo B (Científico + Formación Primaria) 2990 EUR (B1) y 996,66 EUR (B2).",
-   "min_usd": 1028,
+   "nota": "Cuota fija no UE: 2790 EUR (grupo A) o 2990 EUR (grupo B). Tarifa de 930 EUR (países de bajo desarrollo) descartada: no aplica a Guatemala (confirmado por Paolo 2026-11-16).",
+   "min_usd": 3084,
    "max_usd": 3305
   },
   "moneda": "EUR",

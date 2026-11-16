@@ -1,0 +1,20 @@
+{
+ "ror_id": "01nrxwf90",
+ "costo_anual": {
+  "matricula": {
+   "valor": null,
+   "fuente": "https://www.ed.ac.uk/studying/international",
+   "verificado_en": "2026-11-16"
+  },
+  "matricula_rango": null,
+  "moneda": null,
+  "anio_academico": null,
+  "nota": null,
+  "aproximado": false
+ },
+ "becas": [],
+ "sin_dato": {
+  "costo_anual": "Sin dato: la página indica que hay costes de matrícula y otros gastos, pero no publica cifras en el texto leído.",
+  "becas": "Sin dato: el texto leído no nombra becas ni ayudas concretas."
+ }
+}

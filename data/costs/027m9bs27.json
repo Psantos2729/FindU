@@ -1,0 +1,35 @@
+{
+ "ror_id": "027m9bs27",
+ "costo_anual": {
+  "matricula": {
+   "valor": null,
+   "fuente": "https://www.manchester.ac.uk/study/undergraduate/fees-and-funding/",
+   "verificado_en": "2026-11-16"
+  },
+  "matricula_rango": null,
+  "moneda": null,
+  "anio_academico": null,
+  "nota": null,
+  "aproximado": false
+ },
+ "becas": [
+  {
+   "nombre": "Funding opportunities search (buscador de financiación)",
+   "cobertura": "Buscador de oportunidades de financiación de la universidad; sin montos en el texto leído",
+   "url": "https://www.manchester.ac.uk/study/undergraduate/fees-and-funding/"
+  },
+  {
+   "nombre": "Master's student funding",
+   "cobertura": "Becas, préstamos y apoyo por discapacidad para estudiantes de máster; sin montos en el texto leído",
+   "url": "https://www.manchester.ac.uk/study/masters/fees-and-funding/"
+  },
+  {
+   "nombre": "Scholarships for refugees and asylum seekers in the UK",
+   "cobertura": "Becas y apoyo para solicitantes con barreras de acceso a la educación superior por su situación migratoria; sin montos en el texto leído",
+   "url": "https://www.manchester.ac.uk/study/undergraduate/fees-and-funding/"
+  }
+ ],
+ "sin_dato": {
+  "costo_anual": "Sin dato: las páginas describen las tasas pero no publican cifras en el texto leído."
+ }
+}

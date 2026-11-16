@@ -1,0 +1,25 @@
+{
+ "ror_id": "00q4vv597",
+ "costo_anual": {
+  "matricula": {
+   "valor": null,
+   "fuente": "https://hkust.edu.hk/internationalization",
+   "verificado_en": "2026-11-16"
+  },
+  "matricula_rango": null,
+  "moneda": null,
+  "anio_academico": null,
+  "nota": null,
+  "aproximado": false
+ },
+ "becas": [
+  {
+   "nombre": "Scholarship, Financial Aid and Insurance (sección de becas)",
+   "cobertura": "Sección de becas y ayuda financiera citada en el menú y en admisión internacional; sin montos ni criterios en el texto leído",
+   "url": "https://hkust.edu.hk/internationalization"
+  }
+ ],
+ "sin_dato": {
+  "costo_anual": "Sin dato: el texto leído no incluye tasas de matrícula."
+ }
+}

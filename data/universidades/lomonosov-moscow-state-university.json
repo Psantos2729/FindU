@@ -1,0 +1,67 @@
+{
+ "id": "lomonosov-moscow-state-university",
+ "nombre": "Lomonosov Moscow State University",
+ "ciudad": "Moscow",
+ "pais": "Russia",
+ "sitio_web": "https://msu.ru/en/",
+ "carreras": [
+  {
+   "nombre": "Computer Science (programa exacto por confirmar)",
+   "areas": [
+    "computer-science"
+   ],
+   "idioma": null,
+   "duracion_anios": null,
+   "url": "https://msu.ru/en/"
+  }
+ ],
+ "costo_anual": {
+  "matricula": {
+   "valor": null
+  },
+  "moneda": null,
+  "anio_academico": null,
+  "nota": null
+ },
+ "aceptacion": {
+  "tasa_pct": {
+   "valor": null
+  },
+  "ambito": null
+ },
+ "rankings": {
+  "mundial": {
+   "posicion": null
+  },
+  "especialidad": {
+   "sistema": "QS 2026 Computer Science",
+   "anio": 2026,
+   "posicion": 143,
+   "fuente": "https://www.topuniversities.com/university-subject-rankings",
+   "verificado_en": "2026-11-16"
+  }
+ },
+ "requisitos": {
+  "sat": {},
+  "ingles": {},
+  "gpa_referencia": null,
+  "tipo_admision": null,
+  "nota": "Requisitos pendientes de barrido."
+ },
+ "becas": [],
+ "fotos_busqueda": "Lomonosov Moscow State University campus",
+ "fotos": [],
+ "fotos_enlace": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%93%D0%A3%2C%20%D0%B2%D0%B8%D0%B4%20%D1%81%20%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%85%D0%B0.jpg",
+ "alertas": [
+  {
+   "nivel": "tomar-en-cuenta",
+   "texto": "Ficha base: ranking QS tomado del CSV; costos, aceptación y requisitos sin verificar."
+  }
+ ],
+ "sin_dato": {
+  "costo_anual": "Sin dato: pendiente de barrido; no verificado en fuente oficial",
+  "becas": "Sin dato: pendiente de barrido; no verificado en fuente oficial",
+  "aceptacion.tasa_pct": "Sin dato: pendiente de barrido; no verificado en fuente oficial",
+  "rankings.mundial": "Sin dato: pendiente de barrido; no verificado en fuente oficial"
+ }
+}

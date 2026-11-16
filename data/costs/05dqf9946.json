@@ -1,0 +1,20 @@
+{
+ "ror_id": "05dqf9946",
+ "costo_anual": {
+  "matricula": {
+   "valor": null,
+   "fuente": "https://www.isct.ac.jp",
+   "verificado_en": "2026-11-16"
+  },
+  "matricula_rango": null,
+  "moneda": null,
+  "anio_academico": null,
+  "nota": null,
+  "aproximado": false
+ },
+ "becas": [],
+ "sin_dato": {
+  "costo_anual": "Sin dato: las páginas leídas son noticias; no aparecen tasas de matrícula.",
+  "becas": "Sin dato: las páginas leídas no mencionan becas."
+ }
+}

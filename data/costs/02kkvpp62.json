@@ -1,0 +1,36 @@
+{
+ "ror_id": "02kkvpp62",
+ "costo_anual": {
+  "matricula": {
+   "valor": null,
+   "fuente": "https://www.tum.de",
+   "verificado_en": "2026-11-16"
+  },
+  "matricula_rango": {
+   "min": 2300,
+   "max": 3400,
+   "nota": "Estudiantes de terceros países (fuera de UE/EEE): Bachelor 2.300 EUR y Master 3.400 EUR, a partir del Wintersemester 2027/28 (cifras futuras). La fuente no indica si son anuales o semestrales.",
+   "min_usd": 2542,
+   "max_usd": 3758
+  },
+  "moneda": "EUR",
+  "anio_academico": "2027-28",
+  "nota": "Cifras futuras, no matrícula vigente. Periodo de cobro no indicado en la fuente.",
+  "aproximado": false,
+  "tasa_usd": {
+   "por_usd": 0.9048,
+   "fecha": "2026-11-13",
+   "fuente": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+  }
+ },
+ "becas": [
+  {
+   "nombre": "Erlasse (exenciones de tasas) y Stipendien (becas) para estudiantes internacionales",
+   "cobertura": "Se ofrecen según la fuente; sin montos ni criterios en el texto leído",
+   "url": "https://www.tum.de/studium/internationale-studierende"
+  }
+ ],
+ "sin_dato": {
+  "costo_anual": "Sin dato: no aparece matrícula anual vigente de pregrado; solo cifras futuras (WS 2027/28) con periodo no indicado."
+ }
+}

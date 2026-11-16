@@ -1,0 +1,76 @@
+{
+ "id": "university-of-naples-federico-ii",
+ "nombre": "University of Naples Federico II",
+ "ciudad": "Naples",
+ "pais": "Italy",
+ "sitio_web": "https://www.unina.it",
+ "carreras": [
+  {
+   "nombre": "Computer Science (programa exacto por confirmar)",
+   "areas": [
+    "computer-science"
+   ],
+   "idioma": null,
+   "duracion_anios": null,
+   "url": "https://www.unina.it"
+  },
+  {
+   "nombre": "Ingeniería eléctrica y electrónica (QS EEE) (programa exacto por confirmar)",
+   "areas": [
+    "computer-engineering"
+   ],
+   "idioma": null,
+   "duracion_anios": null,
+   "url": "https://www.unina.it"
+  }
+ ],
+ "costo_anual": {
+  "matricula": {
+   "valor": null
+  },
+  "moneda": null,
+  "anio_academico": null,
+  "nota": null
+ },
+ "aceptacion": {
+  "tasa_pct": {
+   "valor": null
+  },
+  "ambito": null
+ },
+ "rankings": {
+  "mundial": {
+   "posicion": null
+  },
+  "especialidad": {
+   "sistema": "QS 2026 Computer Science",
+   "anio": 2026,
+   "posicion": 184,
+   "fuente": "https://www.topuniversities.com/university-subject-rankings",
+   "verificado_en": "2026-11-16"
+  }
+ },
+ "requisitos": {
+  "sat": {},
+  "ingles": {},
+  "gpa_referencia": null,
+  "tipo_admision": null,
+  "nota": "Requisitos pendientes de barrido."
+ },
+ "becas": [],
+ "fotos_busqueda": "University of Naples Federico II campus",
+ "fotos": [],
+ "fotos_enlace": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A0%20degli%20Studi%20di%20Napoli%20Federico%20II%20%283542%29.jpg",
+ "alertas": [
+  {
+   "nivel": "tomar-en-cuenta",
+   "texto": "Ficha base: ranking QS tomado del CSV; costos, aceptación y requisitos sin verificar."
+  }
+ ],
+ "sin_dato": {
+  "costo_anual": "Sin dato: pendiente de barrido; no verificado en fuente oficial",
+  "becas": "Sin dato: pendiente de barrido; no verificado en fuente oficial",
+  "aceptacion.tasa_pct": "Sin dato: pendiente de barrido; no verificado en fuente oficial",
+  "rankings.mundial": "Sin dato: pendiente de barrido; no verificado en fuente oficial"
+ }
+}

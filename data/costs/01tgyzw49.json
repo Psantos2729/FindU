@@ -1,0 +1,20 @@
+{
+ "ror_id": "01tgyzw49",
+ "costo_anual": {
+  "matricula": {
+   "valor": null,
+   "fuente": "https://www.nus.edu.sg/",
+   "verificado_en": "2026-11-16"
+  },
+  "matricula_rango": null,
+  "moneda": null,
+  "anio_academico": null,
+  "nota": null,
+  "aproximado": false
+ },
+ "becas": [],
+ "sin_dato": {
+  "costo_anual": "Sin dato: la portada oficial no mostró cifras de costos ni enlaces a costos (29 caracteres útiles)",
+  "becas": "Sin dato: la portada oficial no mostró cifras de costos ni enlaces a costos (29 caracteres útiles)"
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "ror_id": "02zhqgq86",
+ "costo_anual": {
+  "matricula": {
+   "valor": null,
+   "fuente": "https://www.hku.hk/en/admission-aid/tuition-fee-scholarships",
+   "verificado_en": "2026-11-16"
+  },
+  "matricula_rango": {
+   "min": 224000,
+   "max": 249000,
+   "nota": "Estudiantes no locales: HKD 224.000 (facultades no STEM: Architecture, Arts, Business and Economics, Education, Law, Social Sciences) y HKD 249.000 (facultades/escuelas STEM: Dentistry, Engineering, Medicine, Science, School of Biomedical Engineering, School of Computing and Data Science, School of Innovation; incluye STEM fee). Tasa local HKD 47.000 no aplica a internacionales.",
+   "min_usd": 28550,
+   "max_usd": 31736
+  },
+  "moneda": "HKD",
+  "anio_academico": "2026-27",
+  "nota": "Cifras por año, cohorte 2026-2027.",
+  "aproximado": false,
+  "tasa_usd": {
+   "por_usd": 7.846,
+   "fecha": "2026-11-13",
+   "fuente": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+  }
+ },
+ "becas": [
+  {
+   "nombre": "D. H. Chen Foundation Scholarship",
+   "cobertura": "Apoyo integral para futuros líderes con impacto social; elegibilidad de internacionales no detallada en el texto leído",
+   "url": "https://www.hku.hk/en/admission-aid/tuition-fee-scholarships"
+  },
+  {
+   "nombre": "AIA Scholarships",
+   "cobertura": "Solo estudiantes locales de primer año de pregrado; mérito académico y servicio comunitario; sin montos en el texto leído",
+   "url": "https://www.hku.hk/en/admission-aid/tuition-fee-scholarships"
+  },
+  {
+   "nombre": "The Hong Kong Jockey Club Compassionate Leader Scholarship",
+   "cobertura": "Hasta tres becas al año para estudiantes locales de HKU; sin montos en el texto leído",
+   "url": "https://www.hku.hk/en/admission-aid/tuition-fee-scholarships"
+  },
+  {
+   "nombre": "The Hong Kong Jockey Club Chairman's Scholarship",
+   "cobertura": "Para estudiantes con logros académicos excepcionales que cursen pregrado en Hong Kong; sin montos en el texto leído",
+   "url": "https://www.hku.hk/en/admission-aid/tuition-fee-scholarships"
+  },
+  {
+   "nombre": "The Hong Kong Jockey Club Striding On Scholarship",
+   "cobertura": "Para estudiantes locales con resiliencia ante adversidades; sin montos en el texto leído",
+   "url": "https://www.hku.hk/en/admission-aid/tuition-fee-scholarships"
+  }
+ ]
+}

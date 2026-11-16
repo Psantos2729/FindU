@@ -1,0 +1,25 @@
+{
+ "ror_id": "0220qvk04",
+ "costo_anual": {
+  "matricula": {
+   "valor": null,
+   "fuente": "https://www.sjtu.edu.cn",
+   "verificado_en": "2026-11-16"
+  },
+  "matricula_rango": null,
+  "moneda": null,
+  "anio_academico": null,
+  "nota": null,
+  "aproximado": false
+ },
+ "becas": [
+  {
+   "nombre": "Beca Kechuang Bozhong (科创播种计划) del Fondo SJTU-Zizhu Xiaomiao",
+   "cobertura": "Aviso de creación de la beca y apertura de primera solicitud; público objetivo no indicado en el titular leído",
+   "url": "https://www.sjtu.edu.cn"
+  }
+ ],
+ "sin_dato": {
+  "costo_anual": "Sin dato: la página principal no muestra tasas de matrícula."
+ }
+}

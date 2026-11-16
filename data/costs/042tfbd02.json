@@ -1,0 +1,25 @@
+{
+ "ror_id": "042tfbd02",
+ "costo_anual": {
+  "matricula": {
+   "valor": null,
+   "fuente": "https://www.ip-paris.fr/education/informations-pratiques/international",
+   "verificado_en": "2026-11-16"
+  },
+  "matricula_rango": null,
+  "moneda": null,
+  "anio_academico": null,
+  "nota": null,
+  "aproximado": false
+ },
+ "becas": [
+  {
+   "nombre": "Bourses (rúbrica de becas del sitio)",
+   "cobertura": "Rúbrica 'Bourses' citada en el menú; sin montos ni criterios en el texto leído",
+   "url": "https://www.ip-paris.fr/education/informations-pratiques/international"
+  }
+ ],
+ "sin_dato": {
+  "costo_anual": "Sin dato: el texto leído no incluye tasas de matrícula."
+ }
+}
