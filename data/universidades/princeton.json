@@ -1,0 +1,120 @@
+{
+  "id": "princeton",
+  "nombre": "Princeton University",
+  "ciudad": "Princeton",
+  "pais": "Estados Unidos",
+  "sitio_web": "https://www.princeton.edu",
+  "carreras": [
+    {
+      "nombre": "Computer Science (pregrado)",
+      "areas": [
+        "computer-science",
+        "ciberseguridad"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": null
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "USD",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 4.0,
+      "fuente": "https://en.wikipedia.org/wiki/Princeton_University",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 27,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 14,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/us",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": 1490,
+      "p75": 1560,
+      "fuente": "https://en.wikipedia.org/wiki/Princeton_University",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": null
+  },
+  "becas": [],
+  "alertas": [],
+  "fotos_busqueda": "Princeton University campus",
+  "fotos": [
+    {
+      "archivo": "assets/campus/princeton/01.jpg",
+      "alt": "Campus de Princeton University",
+      "autor": "Ken Lund",
+      "licencia": "CC BY-SA 2.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Cannon_Green_and_Nassau_Hall%2C_Princeton_University.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Cannon_Green_and_Nassau_Hall%2C_Princeton_University.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/princeton/02.jpg",
+      "alt": "Campus de Princeton University",
+      "autor": "Szeremeta",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Alexander_Hall%2C_Princeton_University%2C_December_2025_%28Aerial%29.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexander_Hall%2C_Princeton_University%2C_December_2025_%28Aerial%29.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/princeton/03.jpg",
+      "alt": "Campus de Princeton University",
+      "autor": "John Phelan",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Nassau_Hall_in_the_distance%2C_Princeton_University%2C_Princeton_NJ.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Nassau_Hall_in_the_distance%2C_Princeton_University%2C_Princeton_NJ.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/princeton/04.jpg",
+      "alt": "Campus de Princeton University",
+      "autor": "Smallbones",
+      "licencia": "CC0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Alexander_Hall_at_Princeton_University%2C_NJ.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexander_Hall_at_Princeton_University%2C_NJ.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Pendiente de investigar: aún no se buscó la matrícula para internacionales",
+    "becas": "Pendiente de investigar"
+  }
+}

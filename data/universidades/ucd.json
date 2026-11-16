@@ -1,0 +1,135 @@
+{
+  "id": "ucd",
+  "nombre": "University College Dublin",
+  "ciudad": "Dublín",
+  "pais": "Irlanda",
+  "sitio_web": "https://www.ucd.ie",
+  "carreras": [
+    {
+      "nombre": "BSc Computer Science",
+      "areas": [
+        "computer-science",
+        "inteligencia-artificial",
+        "software-engineering",
+        "data-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://www.ucd.ie/global/study-at-ucd/"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": 29500,
+      "fuente": "https://unienrol.com/study-ireland/university-college-dublin/31740-b-sc-computer-science",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "vida": {
+      "valor": 22005,
+      "fuente": "https://www.ucd.ie/global/study-at-ucd/scholarshipsfinances/livingcosts/",
+      "verificado_en": "2026-11-14"
+    },
+    "moneda": "EUR",
+    "anio_academico": "2026-27",
+    "nota": "Vida: mediana de EUR 2,445 al mes según UCD (abril de 2026), por 9 meses."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": "2026-11-14"
+    },
+    "ambito": null
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 100,
+      "fuente": "https://www.study.eu/university/university-college-dublin-ucd/rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": null,
+      "fuente": null,
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": null,
+    "nota": "Con el Bachillerato de Guatemala, UCD pide por lo general cursar antes su International Foundation Year (un año adicional)."
+  },
+  "becas": [
+    {
+      "nombre": "UCD Global Excellence Scholarship",
+      "cobertura": "50 % o 100 % de la matrícula para estudiantes con tarifa no-UE.",
+      "convocatoria": "Requiere solicitud después de recibir una oferta de admisión; UCD no publica la fecha de cierre.",
+      "via_indesgua": false,
+      "url": "https://www.ucd.ie/global/scholarships/",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "fotos_busqueda": "University College Dublin Belfield campus",
+  "fotos": [
+    {
+      "archivo": "assets/campus/ucd/01.jpg",
+      "alt": "Campus de University College Dublin",
+      "autor": "Sarah777",
+      "licencia": "Public domain",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Belfield_1414w.JPG",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Belfield_1414w.JPG?width=1280"
+    },
+    {
+      "archivo": "assets/campus/ucd/02.jpg",
+      "alt": "Campus de University College Dublin",
+      "autor": "Gianluca Miscione",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Belfield.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Belfield.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/ucd/03.jpg",
+      "alt": "Campus de University College Dublin",
+      "autor": "Sarah777",
+      "licencia": "Public domain",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Belfield_Arts_Block_1445w.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Belfield_Arts_Block_1445w.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/ucd/04.jpg",
+      "alt": "Campus de University College Dublin",
+      "autor": "Sarah777",
+      "licencia": "CC BY-SA 2.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Belfield_Campus%2C_County_Dublin_-_geograph.org.uk_-_1803299.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Belfield_Campus%2C_County_Dublin_-_geograph.org.uk_-_1803299.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "aceptacion.tasa_pct": "La universidad no publica una tasa oficial",
+    "rankings.especialidad": "No se pudo verificar la posición"
+  },
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "Con el Bachillerato de Guatemala, UCD pide por lo general un año previo (International Foundation Year): serían 5 años en total."
+    }
+  ]
+}

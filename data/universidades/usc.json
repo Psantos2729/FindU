@@ -1,0 +1,113 @@
+{
+  "id": "usc",
+  "nombre": "University of Southern California",
+  "ciudad": "Los Ángeles",
+  "pais": "Estados Unidos",
+  "sitio_web": "https://www.usc.edu",
+  "carreras": [
+    {
+      "nombre": "Computer Science and Business Administration (BS)",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://www.cs.usc.edu/academic-programs/undergrad/computer-science-business-administration/"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "USD",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 9.9,
+      "fuente": "https://en.wikipedia.org/wiki/University_of_Southern_California",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 73,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/us",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": 1450,
+      "p75": 1550,
+      "fuente": "https://en.wikipedia.org/wiki/University_of_Southern_California",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": null
+  },
+  "becas": [],
+  "alertas": [],
+  "fotos_busqueda": "USC Bovard Auditorium",
+  "fotos": [
+    {
+      "archivo": "assets/campus/usc/01.jpg",
+      "alt": "Campus de University of Southern California",
+      "autor": "EEJCC",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Bovard_Auditorium_at_dusk%2C_University_of_Southern_California.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Bovard_Auditorium_at_dusk%2C_University_of_Southern_California.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/usc/02.jpg",
+      "alt": "Campus de University of Southern California",
+      "autor": "Autor no indicado",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:USC_Bovard_Auditorium.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/USC_Bovard_Auditorium.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/usc/03.jpg",
+      "alt": "Campus de University of Southern California",
+      "autor": "Seauton",
+      "licencia": "CC BY 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Usc_bovard_tower_sculptures_1.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Usc_bovard_tower_sculptures_1.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Pendiente de investigar: aún no se buscó la matrícula para internacionales",
+    "rankings.mundial": "No se pudo verificar su posición en QS 2027",
+    "becas": "Pendiente de investigar"
+  }
+}

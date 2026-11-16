@@ -1,0 +1,145 @@
+{
+  "id": "nus",
+  "nombre": "National University of Singapore",
+  "ciudad": "Singapur",
+  "pais": "Singapur",
+  "sitio_web": "https://www.nus.edu.sg",
+  "carreras": [
+    {
+      "nombre": "Bachelor of Computing (Computer Science)",
+      "areas": [
+        "ciberseguridad",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": null,
+      "url": "https://www.comp.nus.edu.sg"
+    },
+    {
+      "nombre": "Double Degree in Computer Science/Information Systems & Business Administration",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4.5,
+      "url": "https://www.comp.nus.edu.sg/programmes/sp/ddp/cba"
+    }
+  ],
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 10,
+      "fuente": "dato provisto por el usuario",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 4,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/sg",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "becas": [
+    {
+      "nombre": "NUS International Undergraduate Scholarship",
+      "cobertura": "Para estudiantes excepcionales (cobertura no indicada en el prospecto)",
+      "convocatoria": "Junto con la solicitud de admisión; ayuda financiera antes del 15 abr. (ciclo 2026)",
+      "via_indesgua": false,
+      "url": "https://nus.edu.sg/oam/docs/default-source/nus-publications/intlprospectus.pdf",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "Piden SAT con mínimos (RW 600 y Math 650) y además 3 AP."
+    },
+    {
+      "nivel": "riesgo",
+      "texto": "La matrícula de S$22,200 incluye el Tuition Grant, que obliga a trabajar 3 años en Singapur; sin él cuesta S$33,400 (BBA) o S$39,700 (CS)."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Hay que mantener un GPA mínimo para seguir en el doble grado."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "El Tuition Grant reduce la matrícula casi a la mitad pero obliga a trabajar 3 años en Singapur."
+    }
+  ],
+  "fotos": [
+    {
+      "archivo": "assets/campus/nus/01.jpg",
+      "alt": "Campus de National University of Singapore",
+      "autor": "Joshua Rommel Hayag Vargas",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:University_Town_Skyline_from_Northwest_Kent_Ridge_Campus%2C_National_University_of_Singapore%2C_February_2020.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/University_Town_Skyline_from_Northwest_Kent_Ridge_Campus%2C_National_University_of_Singapore%2C_February_2020.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/nus/02.jpg",
+      "alt": "Campus de National University of Singapore",
+      "autor": "RFNirmala",
+      "licencia": "CC BY 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:National_University_of_Singapore_Entrance_C_17Jul2026.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/National_University_of_Singapore_Entrance_C_17Jul2026.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/nus/03.jpg",
+      "alt": "Campus de National University of Singapore",
+      "autor": "GoAheadFan95",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Manasseh_Meyer_Building%2C_National_University_of_Singapore_Bukit_Timah_Campus%2C_October_2025.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Manasseh_Meyer_Building%2C_National_University_of_Singapore_Bukit_Timah_Campus%2C_October_2025.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "aceptacion.tasa_pct": "No publicada."
+  },
+  "costo_anual": {
+    "matricula": {
+      "valor": 39700,
+      "fuente": "https://nus.edu.sg/registrar/docs/default-source/administrative-policies-procedures/ugtuitioncurrent.pdf",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": 11750,
+      "fuente": "https://nus.edu.sg/oam/docs/default-source/nus-publications/intlprospectus.pdf",
+      "verificado_en": "2026-11-14"
+    },
+    "moneda": "SGD",
+    "anio_academico": "2026/27 (sin subsidio, GST incluido)",
+    "nota": "Suma de S$6,000 de gastos más S$5,750 de alojamiento, para un periodo de estudio de 35 semanas."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": true,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://nus.edu.sg/oam/docs/default-source/nus-publications/intlprospectus.pdf",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": "El Bachillerato guatemalteco cae en 'Other High School Qualifications' y debe acompañarse de SAT/ACT y AP. Se entra directo (con matemáticas fuertes) o después del primer año según el GPA; hay que cumplir los requisitos de Computing y de Business. Idioma: TOEFL iBT 92-93; IELTS 6.5."
+  },
+  "fotos_busqueda": "National University of Singapore University Town"
+}

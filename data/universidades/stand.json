@@ -1,0 +1,120 @@
+{
+  "id": "stand",
+  "nombre": "University of St Andrews",
+  "ciudad": "St Andrews",
+  "pais": "Reino Unido",
+  "sitio_web": "https://www.st-andrews.ac.uk",
+  "carreras": [
+    {
+      "nombre": "Bachelor of Science (Honours) Computer Science and Management",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://e-vision.st-andrews.ac.uk/cview/reqs/2024-25/USHFCSCJMGT.html"
+    }
+  ],
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 115,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings?page=3",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": "451–500",
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/gb",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "becas": [
+    {
+      "nombre": "International Undergraduate Scholarship",
+      "cobertura": "Descuento en la matrícula de cada año según necesidad económica; el monto se confirma en dic. 2026",
+      "convocatoria": "Cierra el 27 ene. 2027; se solicita en My Application después de enviar la solicitud de admisión",
+      "via_indesgua": false,
+      "url": "https://www.st-andrews.ac.uk/study/scholarships/scholarships-catalogue/undergraduate-scholarships/international-undergraduate-scholarship/",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "La matrícula no es fija: sube entre 3% y 5% cada año."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Computer Science aquí rankea bajo en QS por materia (451-500), aunque la universidad está en el puesto 115."
+    }
+  ],
+  "fotos": [
+    {
+      "archivo": "assets/campus/stand/01.jpg",
+      "alt": "Campus de University of St Andrews",
+      "autor": "Oliverkeenan",
+      "licencia": "CC BY 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:United_College_University_of_St_Andrews.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/United_College_University_of_St_Andrews.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/stand/02.jpg",
+      "alt": "Campus de University of St Andrews",
+      "autor": "Richard Law",
+      "licencia": "CC BY-SA 2.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:School_II%2C_St_Andrews_University_%28geograph_5979957%29.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/School_II%2C_St_Andrews_University_%28geograph_5979957%29.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual.vida": "Sin cifra oficial.",
+    "aceptacion.tasa_pct": "No publicada."
+  },
+  "costo_anual": {
+    "matricula": {
+      "valor": 33250,
+      "fuente": "https://www.st-andrews.ac.uk/study/undergraduate/fees/world/",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "GBP",
+    "anio_academico": "2026-27",
+    "nota": "La página de tarifas no da costo de vida."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "numerica",
+    "nota": "Grado conjunto (joint honours) de 4 años. La página oficial del curso no se pudo abrir; se usó la página oficial de requisitos del programa."
+  },
+  "fotos_busqueda": "St Salvator's Quadrangle St Andrews"
+}

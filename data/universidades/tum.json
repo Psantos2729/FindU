@@ -1,0 +1,133 @@
+{
+  "id": "tum",
+  "nombre": "Technical University of Munich",
+  "ciudad": "Múnich",
+  "pais": "Alemania",
+  "sitio_web": "https://www.tum.de/en/",
+  "carreras": [
+    {
+      "nombre": "Management and Technology (BSc)",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "alemán o inglés (no se confirma que sea 100% en inglés)",
+      "duracion_anios": 3,
+      "url": "https://www.tum.de/en/studies/degree-programs/detail/management-and-technology-bachelor-of-science-bsc"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "EUR",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 25,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 26,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/de",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://www.tum.de/en/studies/degree-programs/detail/management-and-technology-bachelor-of-science-bsc",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": "Procedimiento de evaluación de aptitud (Aptitude Assessment). Plazo de solicitud del 15 may. al 15 jul.; inicio en octubre. La página no dice cómo se tratan los títulos de colegio extranjeros. Idioma: Certificado de alemán o de inglés."
+  },
+  "becas": [
+    {
+      "nombre": "TUM scholarship for international students",
+      "cobertura": "EUR 500 a 1,800 por semestre (se vuelve a solicitar cada semestre); también hay exenciones de matrícula por mérito o necesidad",
+      "convocatoria": "Cada semestre",
+      "via_indesgua": false,
+      "url": "https://www.tum.de/en/studies/fees/tuition",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "No se confirma que la carrera sea 100% en inglés; podría requerir alemán."
+    },
+    {
+      "nivel": "riesgo",
+      "texto": "Revisar en uni-assist/anabin si el Bachillerato guatemalteco da acceso directo o exige Studienkolleg o estudios universitarios previos."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Desde el semestre de invierno 2027/28 los no-UE pagan EUR 2,300 o 3,400 por semestre, según el programa."
+    }
+  ],
+  "fotos_busqueda": "Technische Universität München",
+  "fotos": [
+    {
+      "archivo": "assets/campus/tum/01.jpg",
+      "alt": "Campus de Technical University of Munich",
+      "autor": "-wuppertaler",
+      "licencia": "CC BY 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:GER_M%C3%BCnchen%2C_Technische_Universit%C3%A4t_001.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/GER_M%C3%BCnchen%2C_Technische_Universit%C3%A4t_001.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/tum/02.jpg",
+      "alt": "Campus de Technical University of Munich",
+      "autor": "Daderot",
+      "licencia": "CC0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Technische_Universit%C3%A4t_M%C3%BCnchen_-_DSC07383.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Technische_Universit%C3%A4t_M%C3%BCnchen_-_DSC07383.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/tum/03.jpg",
+      "alt": "Campus de Technical University of Munich",
+      "autor": "Robot8A",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Technische_Universit%C3%A4t_M%C3%BCnchen%2C_5_Feb_2021.jpeg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Technische_Universit%C3%A4t_M%C3%BCnchen%2C_5_Feb_2021.jpeg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "TUM cobra a los no-UE EUR 2,300 o 3,400 por semestre desde WS 2027/28, pero no se confirmó cuál aplica a este programa.",
+    "aceptacion.tasa_pct": "No publicada.",
+    "costo_anual.vida": "No consultado."
+  }
+}

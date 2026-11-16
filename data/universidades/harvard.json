@@ -1,0 +1,112 @@
+{
+  "id": "harvard",
+  "nombre": "Harvard University",
+  "ciudad": "Cambridge",
+  "pais": "Estados Unidos",
+  "sitio_web": "https://www.harvard.edu",
+  "carreras": [
+    {
+      "nombre": "Computer Science (pregrado)",
+      "areas": [
+        "computer-science",
+        "ciberseguridad"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": null
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "USD",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 3.4,
+      "fuente": "https://en.wikipedia.org/wiki/Harvard_College",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 5,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 7,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/us",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": 1460,
+      "p75": 1570,
+      "fuente": "https://en.wikipedia.org/wiki/Harvard_College",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": "El rango de SAT se armó sumando los rangos por sección, así que es aproximado."
+  },
+  "becas": [],
+  "alertas": [],
+  "fotos_busqueda": "Harvard Yard",
+  "fotos": [
+    {
+      "archivo": "assets/campus/harvard/01.jpg",
+      "alt": "Campus de Harvard University",
+      "autor": "Marco Almbauer",
+      "licencia": "Public domain",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Harvard_Yard_im_Sommer.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard_Yard_im_Sommer.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/harvard/02.jpg",
+      "alt": "Campus de Harvard University",
+      "autor": "Nick Allen",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Harvard_Yard_aerial.JPG",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard_Yard_aerial.JPG?width=1280"
+    },
+    {
+      "archivo": "assets/campus/harvard/03.jpg",
+      "alt": "Campus de Harvard University",
+      "autor": "Sdkb",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Harvard_Yard%2C_February_2022_5.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard_Yard%2C_February_2022_5.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Pendiente de investigar: aún no se buscó la matrícula para internacionales",
+    "becas": "Pendiente de investigar"
+  }
+}

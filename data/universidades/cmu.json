@@ -1,0 +1,122 @@
+{
+  "id": "cmu",
+  "nombre": "Carnegie Mellon University",
+  "ciudad": "Pittsburgh",
+  "pais": "Estados Unidos",
+  "sitio_web": "https://www.cmu.edu",
+  "carreras": [
+    {
+      "nombre": "Computer Science (pregrado)",
+      "areas": [
+        "computer-science",
+        "ciberseguridad"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": null
+    },
+    {
+      "nombre": "Information Systems",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://www.cmu.edu/information-systems/"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "USD",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 11,
+      "fuente": "https://en.wikipedia.org/wiki/Carnegie_Mellon_University",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 55,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 3,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/us",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": 1490,
+      "p75": 1570,
+      "fuente": "https://en.wikipedia.org/wiki/Carnegie_Mellon_University",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": "El rango de SAT se armó sumando los rangos por sección, así que es aproximado."
+  },
+  "becas": [],
+  "alertas": [],
+  "fotos_busqueda": "Carnegie Mellon University campus",
+  "fotos": [
+    {
+      "archivo": "assets/campus/cmu/01.jpg",
+      "alt": "Campus de Carnegie Mellon University",
+      "autor": "Dllu",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Carnegie_Mellon_University_as_seen_from_the_Cathedral_of_Learning.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Carnegie_Mellon_University_as_seen_from_the_Cathedral_of_Learning.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/cmu/02.jpg",
+      "alt": "Campus de Carnegie Mellon University",
+      "autor": "Cbaile19",
+      "licencia": "CC0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Carnegie_Mellon_University_from_Centre_Avenue%2C_2024-03-07.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Carnegie_Mellon_University_from_Centre_Avenue%2C_2024-03-07.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/cmu/03.jpg",
+      "alt": "Campus de Carnegie Mellon University",
+      "autor": "Cbaile19",
+      "licencia": "CC0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Rooftops_of_Oakland_with_Carnegie_Mellon_University%2C_2023-02-13%2C_02.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Rooftops_of_Oakland_with_Carnegie_Mellon_University%2C_2023-02-13%2C_02.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Pendiente de investigar: aún no se buscó la matrícula para internacionales",
+    "becas": "Pendiente de investigar"
+  }
+}

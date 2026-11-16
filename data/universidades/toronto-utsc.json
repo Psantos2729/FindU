@@ -1,0 +1,116 @@
+{
+  "id": "toronto-utsc",
+  "nombre": "University of Toronto Scarborough",
+  "ciudad": "Toronto",
+  "pais": "Canadá",
+  "sitio_web": "https://www.utsc.utoronto.ca",
+  "carreras": [
+    {
+      "nombre": "Management and Information Technology (BBA)",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://www.utsc.utoronto.ca/mgmt/management-information-technology"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": 66110,
+      "fuente": "https://www.utsc.utoronto.ca/admissions/tuition-and-fees",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "CAD",
+    "anio_academico": "1er año (la página no indica el año académico)",
+    "nota": "Residencia de CAD 8,367 a 18,022 por año, más plan de comidas obligatorio de 6,800 en primer año, libros de 1,000 a 2,000 y seguro UHIP de ~948."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 32,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 13,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/ca",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": null,
+    "nota": "Los requisitos para otros sistemas educativos están en uoft.me/reqs (no se consultó). Idioma: TOEFL iBT 89 (Speaking y Writing 22); IELTS 6.5 (6.0 por banda)."
+  },
+  "becas": [
+    {
+      "nombre": "Lester B. Pearson International Scholarship",
+      "cobertura": "Matrícula y gastos de vida por 4 años",
+      "convocatoria": "Ver future.utoronto.ca/pearson-scholarships (requiere nominación del colegio; fecha no verificada)",
+      "via_indesgua": false,
+      "url": "https://future.utoronto.ca/pearson-scholarships",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "La matrícula sube de CAD 66,110 en primer año a 78,160 desde el segundo (más 2,286 de cuotas)."
+    }
+  ],
+  "fotos_busqueda": "University of Toronto Scarborough campus",
+  "fotos": [
+    {
+      "archivo": "assets/campus/toronto-utsc/01.jpg",
+      "alt": "Campus de University of Toronto Scarborough",
+      "autor": "The City of Toronto",
+      "licencia": "CC BY 2.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:University_of_Toronto_Scarborough_Campus.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Toronto_Scarborough_Campus.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/toronto-utsc/02.jpg",
+      "alt": "Campus de University of Toronto Scarborough",
+      "autor": "Loozrboy",
+      "licencia": "CC BY-SA 2.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:U_of_T_Scarborough_Campus.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/U_of_T_Scarborough_Campus.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "aceptacion.tasa_pct": "No publicada.",
+    "costo_anual.vida": "No se encontró una estimación de la universidad"
+  }
+}

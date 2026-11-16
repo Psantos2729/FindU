@@ -1,0 +1,122 @@
+/* Reset, tipografía, cabecera, botones y foco. */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  min-height: 100vh;
+  overflow-x: clip; /* la carta puede salir por los lados sin crear scroll */
+  background: var(--sobre);
+  color: var(--tinta);
+  font-family: var(--fuente-texto);
+  font-size: var(--t-m);
+  line-height: 1.5;
+}
+h1, h2, h3 {
+  font-family: var(--fuente-titulo);
+  line-height: 1.1;
+  margin: 0;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+h1 { font-size: var(--t-2xl); }
+h2 { font-size: var(--t-xl); }
+h3 { font-size: var(--t-l); }
+p { margin: 0; }
+a { color: inherit; }
+img { display: block; max-width: 100%; }
+[hidden] { display: none !important; }
+
+/* Foco visible en todo control */
+:focus-visible {
+  outline: 3px solid var(--tinta);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+.oculto-visual {
+  position: absolute;
+  width: 1px; height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+/* Cabecera */
+.cabecera {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--e-2);
+  padding: var(--e-3) var(--e-4);
+  background: var(--tinta);
+  color: var(--papel);
+}
+.cabecera__marca {
+  font-family: var(--fuente-titulo);
+  font-weight: 800;
+  font-size: var(--t-l);
+  text-decoration: none;
+}
+.cabecera__nav { display: flex; gap: var(--e-1); }
+.cabecera__nav a {
+  white-space: nowrap;
+  padding: var(--e-2) var(--e-3);
+  border-radius: var(--radio-control);
+  text-decoration: none;
+  font-size: var(--t-s);
+}
+.cabecera__nav a[aria-current="page"] { background: var(--papel); color: var(--tinta); }
+.cabecera :focus-visible { outline-color: var(--papel); }
+
+.vista {
+  max-width: 68rem;
+  margin: 0 auto;
+  padding: var(--e-5) var(--e-4) var(--e-7);
+}
+
+/* Botones */
+.boton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--e-2);
+  min-height: 44px;
+  padding: var(--e-2) var(--e-5);
+  border: 2px solid var(--tinta);
+  border-radius: var(--radio-control);
+  background: var(--tinta);
+  color: var(--papel);
+  font: inherit;
+  font-weight: 700;
+  text-decoration: none;
+  cursor: pointer;
+  transition: transform var(--mov-rapido);
+}
+.boton:active { transform: translateY(1px); }
+.boton--secundario { background: transparent; color: var(--tinta); }
+.boton[disabled] { opacity: 0.45; cursor: not-allowed; }
+.fila-botones { display: flex; flex-wrap: wrap; gap: var(--e-3); }
+
+/* Aviso flotante (confirma acciones) */
+.aviso {
+  position: fixed;
+  left: 50%;
+  bottom: var(--e-5);
+  transform: translateX(-50%);
+  max-width: calc(100vw - 2rem);
+  padding: var(--e-3) var(--e-5);
+  border-radius: var(--radio-control);
+  background: var(--tinta);
+  color: var(--papel);
+  z-index: 20;
+}
+.aviso:empty { display: none; }
+
+.nota { color: var(--tinta-suave); font-size: var(--t-s); }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 1ms !important;
+    transition-duration: 1ms !important;
+  }
+}

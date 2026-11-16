@@ -1,0 +1,122 @@
+{
+  "id": "unsw",
+  "nombre": "UNSW Sydney",
+  "ciudad": "Sídney",
+  "pais": "Australia",
+  "sitio_web": "https://www.unsw.edu.au",
+  "carreras": [
+    {
+      "nombre": "Bachelor of Commerce / Computer Science",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://www.unsw.edu.au/study/undergraduate/bachelor-of-commerce-computer-science"
+    },
+    {
+      "nombre": "Bachelor of Computer Science",
+      "areas": [
+        "ciberseguridad",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 3,
+      "url": "https://www.unsw.edu.au/study/undergraduate/bachelor-of-computer-science"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": 61000,
+      "fuente": "https://www.unsw.edu.au/study/undergraduate/bachelor-of-computer-science",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "AUD",
+    "anio_academico": "2026 (primer año, indicativo)",
+    "nota": "Costo total de la carrera: unos AUD 192,500 de matrícula."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 19,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 54,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/au",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://www.unsw.edu.au/study/undergraduate/bachelor-of-computer-science",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "numerica",
+    "nota": "Para 2026: A-levels 15.0, IB 37, ATAR mínimo 85; para algunos países hay que contactar a UNSW. Ingresos en los trimestres 1, 2 y 3."
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "El Bachillerato guatemalteco no aparece en la tabla; hay que consultar a UNSW cómo lo convierte."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Muy selectivo: el puntaje mínimo de ingreso en 2026 fue 97.0 (ATAR o equivalente)."
+    }
+  ],
+  "fotos_busqueda": "UNSW Kensington campus",
+  "fotos": [
+    {
+      "archivo": "assets/campus/unsw/01.jpg",
+      "alt": "Campus de UNSW Sydney",
+      "autor": "J Bar",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Main_Walkway%2C_Lower_campus_UNSW.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Main_Walkway%2C_Lower_campus_UNSW.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/unsw/02.jpg",
+      "alt": "Campus de UNSW Sydney",
+      "autor": "José R. Ferrer Paris",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Anzac_Corps_Memorial_at_UNSW_Kensington_campus.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Anzac_Corps_Memorial_at_UNSW_Kensington_campus.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "aceptacion.tasa_pct": "no publicada",
+    "becas": "no consultado",
+    "costo_anual.vida": "no obtenido"
+  }
+}

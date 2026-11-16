@@ -1,0 +1,122 @@
+{
+  "id": "esade",
+  "nombre": "ESADE",
+  "ciudad": "Barcelona",
+  "pais": "España",
+  "sitio_web": "https://www.esade.edu",
+  "carreras": [
+    {
+      "nombre": "Double Degree BBA & Business and Artificial Intelligence",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "sin confirmar",
+      "duracion_anios": null,
+      "url": null
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": 24500,
+      "fuente": "dato aportado por el usuario",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "EUR",
+    "anio_academico": "2027-28",
+    "nota": "La página de becas no da costo de vida."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": null,
+      "fuente": null,
+      "verificado_en": null
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://www.esade.edu/bachelor/en/degrees/admissions/admission-requirements",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "prueba-propia",
+    "nota": "Examen de admisión Esade (lógica, números, resolución de problemas e inglés) o SAT/ACT. Admisión continua con comités cada dos semanas y cupo limitado. Los títulos de fuera de la vía UNEDasiss deben homologarse (~4 meses) y sin el comprobante de trámite no se puede matricular. Idioma: TOEFL iBT 100 (BBA en inglés); IELTS 7 (6 por sección); Duolingo 160."
+  },
+  "becas": [
+    {
+      "nombre": "Esade Scholarships (Talent, Lodging, Living)",
+      "cobertura": "Hasta 100% para estudiantes talentosos con necesidad económica; se renueva cada año (cobertura promedio de 86% en 2024-25, 295 becados)",
+      "convocatoria": "No indicada",
+      "via_indesgua": false,
+      "url": "https://www.esade.edu/bachelor/en/degrees/scholarships-grants",
+      "verificado_en": "2026-11-14"
+    },
+    {
+      "nombre": "Academic Merit Awards",
+      "cobertura": "Por notas sobresalientes, para la matrícula (monto no indicado)",
+      "convocatoria": "No indicada",
+      "via_indesgua": false,
+      "url": "https://www.esade.edu/bachelor/en/degrees/scholarships-grants/academic-excellence-award",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Hay que homologar el Bachillerato guatemalteco en España (~4 meses) antes de matricularse."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "El inglés exigido para el BBA en inglés es alto (TOEFL 100 / IELTS 7)."
+    }
+  ],
+  "fotos_busqueda": "ESADE Sant Cugat",
+  "fotos": [
+    {
+      "archivo": "assets/campus/esade/01.jpg",
+      "alt": "Campus de ESADE",
+      "autor": "Jorge Franganillo",
+      "licencia": "CC BY 2.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Esade_-_Rambla_de_la_Innovaci%C3%B3n.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Esade_-_Rambla_de_la_Innovaci%C3%B3n.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "aceptacion.tasa_pct": "No publicada.",
+    "rankings.mundial": "No se pudo verificar la posición",
+    "rankings.especialidad": "No se pudo verificar la posición",
+    "costo_anual.vida": "Sin cifra oficial."
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ucla",
+  "nombre": "University of California, Los Angeles",
+  "ciudad": "Los Ángeles",
+  "pais": "Estados Unidos",
+  "sitio_web": "https://www.ucla.edu",
+  "carreras": [
+    {
+      "nombre": "Computer Science (pregrado)",
+      "areas": [
+        "computer-science",
+        "ciberseguridad"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": null
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "USD",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 9,
+      "fuente": "https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 49,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 19,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/us",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": null
+  },
+  "becas": [],
+  "alertas": [],
+  "fotos_busqueda": "UCLA Royce Hall",
+  "fotos": [
+    {
+      "archivo": "assets/campus/ucla/01.jpg",
+      "alt": "Campus de University of California, Los Angeles",
+      "autor": "Beyond My Ken",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:2019_UCLA_Royce_Hall_2.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/2019_UCLA_Royce_Hall_2.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/ucla/02.jpg",
+      "alt": "Campus de University of California, Los Angeles",
+      "autor": "Los Angeles Times",
+      "licencia": "CC BY 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Know_Your_City_No.94_View_of_stairs_and_Royce_Hall.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Know_Your_City_No.94_View_of_stairs_and_Royce_Hall.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Pendiente de investigar: aún no se buscó la matrícula para internacionales",
+    "becas": "Pendiente de investigar"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "id": "ucl",
+  "nombre": "University College London",
+  "ciudad": "Londres",
+  "pais": "Reino Unido",
+  "sitio_web": "https://www.ucl.ac.uk",
+  "carreras": [
+    {
+      "nombre": "Computer Science BSc",
+      "areas": [
+        "ciberseguridad",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 3,
+      "url": "https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/computer-science-bsc"
+    }
+  ],
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 8,
+      "fuente": "dato provisto por el usuario",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 20,
+      "fuente": "dato provisto por el usuario",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Exige el examen TARA y la solicitud cierra el 13-ene-2027 por UCAS."
+    },
+    {
+      "nivel": "riesgo",
+      "texto": "Matrícula de unos £43,500 al año sin beca verificada para internacionales."
+    }
+  ],
+  "fotos": [
+    {
+      "archivo": "assets/campus/ucl/01.jpg",
+      "alt": "Campus de University College London",
+      "autor": "Smuconlaw",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Wilkins_Building%2C_University_College_London%2C_UK_-_20120201-02.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Wilkins_Building%2C_University_College_London%2C_UK_-_20120201-02.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/ucl/02.jpg",
+      "alt": "Campus de University College London",
+      "autor": "Dhowes9",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Wilkins_Building%2C_University_College_London.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Wilkins_Building%2C_University_College_London.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual.vida": "no obtenido",
+    "aceptacion.tasa_pct": "No se encontró una cifra, ni oficial ni aproximada",
+    "becas": "no consultado por límite de llamadas"
+  },
+  "costo_anual": {
+    "matricula": {
+      "valor": 43500,
+      "fuente": "https://digital.ucas.com/coursedisplay/courses/36aa55a9-ba3a-f1c3-bae3-7f249a3d569a",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "GBP",
+    "anio_academico": "2025/26 (los que entren después pagarán más)",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "prueba-propia",
+    "nota": "Examen de admisión TARA para el ciclo 2026; fecha límite UCAS 13-ene-2027."
+  },
+  "fotos_busqueda": "University College London campus"
+}

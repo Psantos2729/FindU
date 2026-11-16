@@ -1,0 +1,104 @@
+{
+  "id": "tsinghua",
+  "nombre": "Tsinghua University",
+  "ciudad": "Pekín",
+  "pais": "China",
+  "sitio_web": "https://www.tsinghua.edu.cn/en/",
+  "carreras": [
+    {
+      "nombre": "Computer Science and Technology (programa chino-inglés)",
+      "areas": [
+        "ciberseguridad",
+        "computer-science"
+      ],
+      "idioma": "chino e inglés",
+      "duracion_anios": null,
+      "url": "https://international.join-tsinghua.edu.cn/Admission1/Fees.htm"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": 30000,
+      "fuente": "https://international.join-tsinghua.edu.cn/Admission1/Fees.htm",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "CNY",
+    "anio_academico": "2027",
+    "nota": "La página de cuotas no da costo de alojamiento ni de vida."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 14,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 11,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/cn",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://international.join-tsinghua.edu.cn/Admission1/Eligibility.htm",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": "Pasaporte extranjero, diploma de secundaria presencial, 18 años al 1-sep-2027; se evalúa con notas, exámenes nacionales, SAT/ACT/A-Level/IB opcionales y olimpiadas. Idioma: HSK Nivel 5 (más de 60 en comprensión auditiva, lectura y escritura) + prueba de inglés."
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "Computer Science se imparte en chino-inglés y exige HSK 5, no es un programa solo en inglés."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Hay becas para alumnos de primer ingreso, pero no se verificaron nombres ni montos."
+    }
+  ],
+  "fotos_busqueda": "Tsinghua University campus",
+  "fotos": [
+    {
+      "archivo": "assets/campus/tsinghua/01.jpg",
+      "alt": "Campus de Tsinghua University",
+      "autor": "Costi",
+      "licencia": "CC BY 2.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Tsinghua_University_campus_1.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Tsinghua_University_campus_1.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "aceptacion.tasa_pct": "no publicada",
+    "becas": "página de becas de primer ingreso no consultada por límite de llamadas",
+    "costo_anual.vida": "no publicado en la página de cuotas"
+  }
+}

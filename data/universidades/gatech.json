@@ -1,0 +1,111 @@
+{
+  "id": "gatech",
+  "nombre": "Georgia Institute of Technology",
+  "ciudad": "Atlanta",
+  "pais": "Estados Unidos",
+  "sitio_web": "https://www.gatech.edu",
+  "carreras": [
+    {
+      "nombre": "Computer Science (pregrado)",
+      "areas": [
+        "computer-science",
+        "ciberseguridad"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": null
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "USD",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 12.74,
+      "fuente": "https://en.wikipedia.org/wiki/Georgia_Tech",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 142,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 34,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/us",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": null
+  },
+  "becas": [],
+  "alertas": [],
+  "fotos_busqueda": "Georgia Tech Tech Tower",
+  "fotos": [
+    {
+      "archivo": "assets/campus/gatech/01.jpg",
+      "alt": "Campus de Georgia Institute of Technology",
+      "autor": "JJonahJackalope",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Tech_Tower_and_One_Coca-Cola_Plaza.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Tech_Tower_and_One_Coca-Cola_Plaza.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/gatech/02.jpg",
+      "alt": "Campus de Georgia Institute of Technology",
+      "autor": "Mistercontributer",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Lettie_Pate_Whitehead_Evans_Administration_Building.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Lettie_Pate_Whitehead_Evans_Administration_Building.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/gatech/03.jpg",
+      "alt": "Campus de Georgia Institute of Technology",
+      "autor": "Mistercontributer",
+      "licencia": "CC0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Tech_Tower_Building_-_10.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Tech_Tower_Building_-_10.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Pendiente de investigar: aún no se buscó la matrícula para internacionales",
+    "becas": "Pendiente de investigar"
+  }
+}

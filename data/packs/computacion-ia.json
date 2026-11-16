@@ -1,0 +1,14 @@
+{
+  "id": "computacion-ia",
+  "nombre": "Computación e IA",
+  "descripcion": "Seis universidades para Computer Science, IA e ingeniería informática.",
+  "area_foco": null,
+  "universidades": [
+    "universidades/toronto.json",
+    "universidades/monash.json",
+    "universidades/alberta.json",
+    "universidades/padova.json",
+    "universidades/milano.json",
+    "universidades/ucd.json"
+  ]
+}

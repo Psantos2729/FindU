@@ -1,0 +1,28 @@
+{
+  "id": "ciberseguridad",
+  "nombre": "Ciberseguridad (top 20 sin EE. UU.)",
+  "descripcion": "Las 20 primeras fuera de Estados Unidos en el ranking EduRank de ciberseguridad (marzo de 2026). Mide investigación publicada, no carreras: casi ninguna tiene un pregrado llamado ciberseguridad y se entra por Computer Science.",
+  "area_foco": "ciberseguridad",
+  "universidades": [
+    "universidades/tsinghua.json",
+    "universidades/toronto.json",
+    "universidades/cambridge.json",
+    "universidades/oxford.json",
+    "universidades/waterloo.json",
+    "universidades/bupt.json",
+    "universidades/ucl.json",
+    "universidades/nus.json",
+    "universidades/sjtu.json",
+    "universidades/kuleuven.json",
+    "universidades/ntu.json",
+    "universidades/eth.json",
+    "universidades/melbourne.json",
+    "universidades/hku.json",
+    "universidades/epfl.json",
+    "universidades/unsw.json",
+    "universidades/uestc.json",
+    "universidades/ubc.json",
+    "universidades/imperial.json",
+    "universidades/xidian.json"
+  ]
+}

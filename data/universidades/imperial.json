@@ -1,0 +1,104 @@
+{
+  "id": "imperial",
+  "nombre": "Imperial College London",
+  "ciudad": "Londres",
+  "pais": "Reino Unido",
+  "sitio_web": "https://www.imperial.ac.uk",
+  "carreras": [
+    {
+      "nombre": "Computing BEng (UCAS G400)",
+      "areas": [
+        "ciberseguridad",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 3,
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/computing-beng/"
+    }
+  ],
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 2,
+      "fuente": "dato provisto por el usuario",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 12,
+      "fuente": "dato provisto por el usuario",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "Con un diploma no británico piden SAT 1480 más tres APs con 5 (incluido Calculus BC), además del TMUA."
+    },
+    {
+      "nivel": "riesgo",
+      "texto": "Matrícula de £47,800 al año sin beca verificada."
+    }
+  ],
+  "fotos": [
+    {
+      "archivo": "assets/campus/imperial/01.jpg",
+      "alt": "Campus de Imperial College London",
+      "autor": "Shadowssettle",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Imperial_College_Central_Library%2C_Imperial_College_Road.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Imperial_College_Central_Library%2C_Imperial_College_Road.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual.vida": "no obtenido",
+    "aceptacion.tasa_pct": "No se encontró una cifra, ni oficial ni aproximada",
+    "becas": "no consultado"
+  },
+  "costo_anual": {
+    "matricula": {
+      "valor": 47800,
+      "fuente": "https://www.imperial.ac.uk/study/courses/undergraduate/computing-beng/",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "GBP",
+    "anio_academico": "ingreso 2027",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": 1480,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://www.imperial.ac.uk/study/courses/undergraduate/computing-beng/",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "prueba-propia",
+    "nota": "TMUA obligatorio; alternativa estilo EE. UU.: SAT 1480 o ACT 33 más APs 5,5,5 con Calculus BC y un diploma de secundaria aceptable. Idioma: Requisito estándar de la universidad."
+  },
+  "fotos_busqueda": "Imperial College London campus"
+}

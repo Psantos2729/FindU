@@ -1,0 +1,121 @@
+{
+  "id": "auckland",
+  "nombre": "University of Auckland",
+  "ciudad": "Auckland",
+  "pais": "Nueva Zelanda",
+  "sitio_web": "https://www.auckland.ac.nz",
+  "carreras": [
+    {
+      "nombre": "Bachelor of Commerce / Bachelor of Science Conjoint (BCom/BSc), BSc con mayor en Computer Science",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-science.html"
+    }
+  ],
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 67,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings?page=2",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 93,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/nz",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "becas": [
+    {
+      "nombre": "International School Leaver Scholarship",
+      "cobertura": "Hasta NZ$20,000 para la matrícula",
+      "convocatoria": "Fecha no indicada",
+      "via_indesgua": false,
+      "url": "https://international.auckland.ac.nz/study/scholarships",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "Si no aceptan el Bachillerato guatemalteco directamente, habría que hacer Foundation o un año de universidad primero."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Es un grado conjunto; la combinación CS + Business/IS se confirma con un asesor."
+    }
+  ],
+  "fotos": [
+    {
+      "archivo": "assets/campus/auckland/01.jpg",
+      "alt": "Campus de University of Auckland",
+      "autor": "Uhooep",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Clock_Tower%2C_University_of_Auckland.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Clock_Tower%2C_University_of_Auckland.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/auckland/02.jpg",
+      "alt": "Campus de University of Auckland",
+      "autor": "possumgirl2",
+      "licencia": "CC BY-SA 2.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Old_Arts_Building%2C_University_of_Auckland_%285936714196%29.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Old_Arts_Building%2C_University_of_Auckland_%285936714196%29.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Solo dan un rango indicativo para 2027 de NZ$54,479.25 a 68,523 por año, más la cuota de servicios.",
+    "costo_anual.vida": "Sin cifra oficial.",
+    "aceptacion.tasa_pct": "No publicada."
+  },
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "NZD",
+    "anio_academico": "2027",
+    "nota": "Sin cifra en las páginas consultadas."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-commerce-science.html",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "numerica",
+    "nota": "Ingreso internacional con IB 28+ o A-level BBC, o un año de universidad en el extranjero (GPE 3.9), más IELTS 6.0. Computer Science es mayor del BSc y Business Analytics/Information Systems son mayores del BCom; hay que confirmar la combinación con un asesor. Idioma: IELTS Academic 6.0 (ninguna banda menor a 5.5)."
+  },
+  "fotos_busqueda": "University of Auckland Clock Tower"
+}

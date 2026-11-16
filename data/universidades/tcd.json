@@ -1,0 +1,132 @@
+{
+  "id": "tcd",
+  "nombre": "Trinity College Dublin",
+  "ciudad": "Dublín",
+  "pais": "Irlanda",
+  "sitio_web": "https://www.tcd.ie",
+  "carreras": [
+    {
+      "nombre": "Computer Science and Business (Multidisciplinary, Joint Honours)",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://www.tcd.ie/business/programmes/undergraduate/computer-science-and-business-degree/"
+    }
+  ],
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 75,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings?page=2",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": null,
+      "fuente": null,
+      "verificado_en": null
+    }
+  },
+  "becas": [
+    {
+      "nombre": "Global Excellence Undergraduate Scholarship",
+      "cobertura": "EUR 2,000-5,000 de descuento en la matrícula del primer año, según la región",
+      "convocatoria": "Ciclo anterior: para América cerró el 1 abr. 2026; la fecha de 2027 no está publicada",
+      "via_indesgua": false,
+      "url": "https://www.tcd.ie/study/international/scholarships/undergraduate/geug.php",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "La beca Global Excellence excluye los cursos de 'computer science and statistics'; confirmar si aplica a Computer Science and Business."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Dublín es cara: el costo de vida oficial va de EUR 20,000 a 29,000 por año."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Confirmar cómo evalúan el Bachillerato guatemalteco (quizá pidan SAT o AP)."
+    }
+  ],
+  "fotos": [
+    {
+      "archivo": "assets/campus/tcd/01.jpg",
+      "alt": "Campus de Trinity College Dublin",
+      "autor": "Adam McGrath",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Front_Square_of_Trinity_College_Dublin.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Front_Square_of_Trinity_College_Dublin.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/tcd/02.jpg",
+      "alt": "Campus de Trinity College Dublin",
+      "autor": "Jasonm",
+      "licencia": "CC BY-SA 2.5",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Trinity_College%2C_Dublin%2C_Ireland_%28Front_Square%29.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Trinity_College%2C_Dublin%2C_Ireland_%28Front_Square%29.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/tcd/03.jpg",
+      "alt": "Campus de Trinity College Dublin",
+      "autor": "J.-H. Janßen",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Dublin_Trinity_College_New_Square_Rubrics_01.JPG",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Dublin_Trinity_College_New_Square_Rubrics_01.JPG?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "aceptacion.tasa_pct": "No publicada.",
+    "rankings.especialidad": "La página de xuanxiao para Irlanda falló."
+  },
+  "costo_anual": {
+    "matricula": {
+      "valor": 23250,
+      "fuente": "https://www.tcd.ie/courses/undergraduate/fees/",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": 19937,
+      "fuente": "https://www.tcd.ie/study/international/welcome/cost-of-living/",
+      "verificado_en": "2026-11-14"
+    },
+    "moneda": "EUR",
+    "anio_academico": "2027-28",
+    "nota": "Rango oficial de EUR 19,937 a 29,050 por año (12 meses), sin matrícula; se usa el mínimo."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://onprem.tcd.ie/study/assets/PDF/Trinity-International-Prospectus-US-2027.pdf",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": "Las solicitudes no-UE abren el 1 nov. 2026 con admisión continua (rolling). El prospecto internacional menciona SAT/ACT, IB, A-levels y AP, pero no el Bachillerato latinoamericano."
+  },
+  "fotos_busqueda": "Trinity College Dublin Campanile"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "epfl",
+  "nombre": "EPFL",
+  "ciudad": "Lausana",
+  "pais": "Suiza",
+  "sitio_web": "https://www.epfl.ch",
+  "carreras": [
+    {
+      "nombre": "Bachelor in Computer Science",
+      "areas": [
+        "ciberseguridad",
+        "computer-science"
+      ],
+      "idioma": "francés",
+      "duracion_anios": null,
+      "url": "https://www.epfl.ch/education/admission/admission-2/bachelor-admission-criteria-and-application"
+    }
+  ],
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 22,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings?page=1",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 15,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/ch",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "Exige francés B2 (mejor C1) y el bachelor se imparte principalmente en francés."
+    },
+    {
+      "nivel": "riesgo",
+      "texto": "Con un diploma guatemalteco probablemente se necesite el examen de admisión o un año preparatorio (CMS)."
+    }
+  ],
+  "fotos": [
+    {
+      "archivo": "assets/campus/epfl/01.jpg",
+      "alt": "Campus de EPFL",
+      "autor": "Fridolin freudenfett",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:EPFL_Rolex_Learning_Center-008.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/EPFL_Rolex_Learning_Center-008.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/epfl/02.jpg",
+      "alt": "Campus de EPFL",
+      "autor": "Guilhem Vellut",
+      "licencia": "CC BY 2.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:EPFL_Rolex_Learning_Center_%40_EPFL_%40_Lausanne_%2836749824932%29.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/EPFL_Rolex_Learning_Center_%40_EPFL_%40_Lausanne_%2836749824932%29.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "no aparece en la página consultada",
+    "costo_anual.vida": "no obtenido",
+    "aceptacion.tasa_pct": "no publicada",
+    "becas": "no consultado"
+  },
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "CHF",
+    "anio_academico": "2027",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "prueba-propia",
+    "nota": "Con diplomas de fuera de UE/AELC/RU: Cours de mathématiques spéciales (CMS, año preparatorio) si se cumplen las condiciones y hay plazas, o examen de admisión; el formulario abre en noviembre. Idioma: Francés B2 (se recomienda mucho C1)."
+  },
+  "fotos_busqueda": "EPFL campus"
+}

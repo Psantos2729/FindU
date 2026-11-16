@@ -1,0 +1,134 @@
+{
+  "id": "ie",
+  "nombre": "IE University",
+  "ciudad": "Segovia y Madrid",
+  "pais": "España",
+  "sitio_web": "https://www.ie.edu",
+  "carreras": [
+    {
+      "nombre": "Dual Degree in Business Administration & Computer Science and Artificial Intelligence",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 5,
+      "url": "https://www.ie.edu/university/studies/academic-programs/dual-degree-in-business-administration-computer-science-and-artificial-intelligence/"
+    }
+  ],
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": null,
+      "fuente": null,
+      "verificado_en": null
+    }
+  },
+  "becas": [
+    {
+      "nombre": "IE Awards (mérito y necesidad)",
+      "cobertura": "Del 10% al 60% de la matrícula",
+      "convocatoria": "Solicitud de ayuda financiera antes del inicio del programa",
+      "via_indesgua": false,
+      "url": "https://www.ie.edu/financial-aid/undergraduate/awardsandscholarships/",
+      "verificado_en": "2026-11-14"
+    },
+    {
+      "nombre": "Direct Awards",
+      "cobertura": "Por mérito, otorgadas automáticamente con la admisión (monto no publicado)",
+      "convocatoria": "Sin solicitud aparte",
+      "via_indesgua": false,
+      "url": "https://www.ie.edu/financial-aid/undergraduate/awardsandscholarships/",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "Son 5 años a EUR 34,020 por año (más de EUR 170,000 de matrícula) y las becas cubren como máximo 60%."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Se estudia entre Segovia y Madrid."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "No aparece en el top 150 del QS mundial ni en el QS de Computer Science."
+    }
+  ],
+  "fotos": [
+    {
+      "archivo": "assets/campus/ie/01.jpg",
+      "alt": "Campus de IE University",
+      "autor": "Arturo Francisco Barbero",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:IE_Universidad.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/IE_Universidad.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/ie/02.jpg",
+      "alt": "Campus de IE University",
+      "autor": "Luis García (Zaqarbal)",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:IE_Business_School_%28Madrid%29_01.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/IE_Business_School_%28Madrid%29_01.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual.vida": "Sin cifra oficial.",
+    "aceptacion.tasa_pct": "No publicada.",
+    "rankings.mundial": "No aparece en las páginas 1-3 (top 150) y no se revisaron más.",
+    "rankings.especialidad": "No está listada en el ranking de CS de España."
+  },
+  "costo_anual": {
+    "matricula": {
+      "valor": 34020,
+      "fuente": "https://www.ie.edu/university/studies/academic-programs/dual-degree-in-business-administration-computer-science-and-artificial-intelligence/admissions-fees",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "EUR",
+    "anio_academico": "2027-28",
+    "nota": "Sin cifra en las páginas consultadas."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://www.ie.edu/university/studies/academic-programs/dual-degree-in-business-administration-computer-science-and-artificial-intelligence/admissions-fees",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "prueba-propia",
+    "nota": "4 etapas: solicitud en línea, examen propio de IE (con matemáticas, alternativa al SAT), entrevista y decisión del comité. Varias rondas; las primeras tienen más cupo. Los estudiantes no-UE deben revisar los plazos de visa. Idioma: IE Admissions Test (en inglés)."
+  },
+  "fotos_busqueda": "IE University Segovia campus"
+}

@@ -1,0 +1,121 @@
+{
+  "id": "warwick",
+  "nombre": "University of Warwick",
+  "ciudad": "Coventry",
+  "pais": "Reino Unido",
+  "sitio_web": "https://warwick.ac.uk",
+  "carreras": [
+    {
+      "nombre": "Computer Science with Business Studies BSc",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 3,
+      "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-computer-science-business"
+    }
+  ],
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 68,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings?page=2",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 84,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/gb",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "becas": [
+    {
+      "nombre": "Warwick Undergraduate Global Excellence Scholarship",
+      "cobertura": "Matrícula completa, media, 25% o GBP 2,000 (cifras 2025); solo para autofinanciados con estatus 'overseas'",
+      "convocatoria": "Ciclo 2026: había que solicitar admisión antes del 14 ene. y la beca cerraba el 27 feb. 2026; las fechas de 2027 no están publicadas",
+      "via_indesgua": false,
+      "url": "https://ugscholarships.warwick.ac.uk/apply/scholarship/d415d7f7-5f43-473c-a01c-e3e98fd8189d",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "Piden matemáticas de nivel muy alto (equivalente a 7 en IB HL Math AA); confirmar cómo evalúan el Bachillerato guatemalteco."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "La beca Global Excellence exige solicitar admisión temprano (a mediados de enero)."
+    }
+  ],
+  "fotos": [
+    {
+      "archivo": "assets/campus/warwick/01.jpg",
+      "alt": "Campus de University of Warwick",
+      "autor": "Malcolm Neal",
+      "licencia": "CC BY-SA 2.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Warwick_University_Central_Campus_-_geograph.org.uk_-_5413137.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Warwick_University_Central_Campus_-_geograph.org.uk_-_5413137.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/warwick/02.jpg",
+      "alt": "Campus de University of Warwick",
+      "autor": "David P Howard",
+      "licencia": "CC BY-SA 2.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:University_of_Warwick_Campus_-_geograph.org.uk_-_3281772.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Warwick_Campus_-_geograph.org.uk_-_3281772.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "La página da 3 bandas para 2027-28 (GBP 21,950 / 29,260 / 37,310) sin decir cuál aplica a este curso.",
+    "costo_anual.vida": "No se encontró una cifra oficial.",
+    "aceptacion.tasa_pct": "No publicada."
+  },
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "GBP",
+    "anio_academico": "2027-28",
+    "nota": "Sin cifra en las páginas consultadas."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://warwick.ac.uk/study/undergraduate/courses/bsc-computer-science-business",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "numerica",
+    "nota": "Oferta típica IB 39 con 7,6,6 en HL, incluido 7 en HL Mathematics AA. Deciden con UCAS (notas previstas, ensayo personal y referencia); normalmente sin entrevista. Idioma: Banda A de Warwick Banda A (la página del curso no da puntaje)."
+  },
+  "fotos_busqueda": "University of Warwick campus"
+}

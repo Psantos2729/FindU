@@ -1,0 +1,126 @@
+{
+  "id": "mit",
+  "nombre": "Massachusetts Institute of Technology",
+  "ciudad": "Cambridge",
+  "pais": "Estados Unidos",
+  "sitio_web": "https://www.mit.edu",
+  "carreras": [
+    {
+      "nombre": "Computer Science (pregrado)",
+      "areas": [
+        "computer-science",
+        "ciberseguridad"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": null
+    },
+    {
+      "nombre": "6-14 Computer Science, Economics, and Data Science",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-14-computer-science-economics-and-data-science/"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "USD",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 4.0,
+      "fuente": "https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 1,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 1,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/us",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": null
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "El 6-14 mezcla computación con economía y ciencia de datos, no con administración de empresas."
+    }
+  ],
+  "fotos_busqueda": "MIT Great Dome",
+  "fotos": [
+    {
+      "archivo": "assets/campus/mit/01.jpg",
+      "alt": "Campus de Massachusetts Institute of Technology",
+      "autor": "Peacearth",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Great_dome_of_MIT%2C_Feb_2021.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_dome_of_MIT%2C_Feb_2021.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/mit/02.jpg",
+      "alt": "Campus de Massachusetts Institute of Technology",
+      "autor": "Madcoverboy",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:MIT_Killian_Court.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/MIT_Killian_Court.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/mit/03.jpg",
+      "alt": "Campus de Massachusetts Institute of Technology",
+      "autor": "Peacearth",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Great_dome_of_MIT%2C_Feb_2021_%282%29.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_dome_of_MIT%2C_Feb_2021_%282%29.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Pendiente de investigar: aún no se buscó la matrícula para internacionales",
+    "becas": "Pendiente de investigar"
+  }
+}

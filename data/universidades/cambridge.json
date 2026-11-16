@@ -1,0 +1,121 @@
+{
+  "id": "cambridge",
+  "nombre": "University of Cambridge",
+  "ciudad": "Cambridge",
+  "pais": "Reino Unido",
+  "sitio_web": "https://www.cam.ac.uk",
+  "carreras": [
+    {
+      "nombre": "Computer Science (BA Hons / MEng)",
+      "areas": [
+        "ciberseguridad",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 3,
+      "url": "https://www.undergraduate.study.cam.ac.uk/courses/computer-science"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "GBP",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 6,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 8,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/gb",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://www.undergraduate.study.cam.ac.uk/courses/computer-science",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "prueba-propia",
+    "nota": "Oferta típica A-level A*A*A o IB 41-42 (776 HL); TMUA obligatorio, CSAT en Peterhouse y Trinity; MEng 4 años opcional."
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "Pide A-levels/IB de nivel muy alto; con el Bachillerato guatemalteco probablemente se necesiten A-levels, AP o un año extra."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "El examen TMUA es obligatorio y hay entrevista."
+    }
+  ],
+  "fotos_busqueda": "University of Cambridge King's College Chapel",
+  "fotos": [
+    {
+      "archivo": "assets/campus/cambridge/01.jpg",
+      "alt": "Campus de University of Cambridge",
+      "autor": "Dmitry Tonkonog",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:20130808_Kings_College_Chapel_01.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/20130808_Kings_College_Chapel_01.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/cambridge/02.jpg",
+      "alt": "Campus de University of Cambridge",
+      "autor": "Dmitry Tonkonog",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:20130215_Kings_College_Chapel_Hi-res_01.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/20130215_Kings_College_Chapel_Hi-res_01.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/cambridge/03.jpg",
+      "alt": "Campus de University of Cambridge",
+      "autor": "Sumit Surai",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Inside_King%27s_College_Chapel.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Inside_King%27s_College_Chapel.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "la página oficial de cuotas no da la cifra internacional y la página de costos internacionales no cargó",
+    "aceptacion.tasa_pct": "No se encontró una cifra, ni oficial ni aproximada",
+    "becas": "no consultado por límite de llamadas",
+    "costo_anual.vida": "no obtenido"
+  }
+}

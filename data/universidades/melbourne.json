@@ -1,0 +1,109 @@
+{
+  "id": "melbourne",
+  "nombre": "University of Melbourne",
+  "ciudad": "Melbourne",
+  "pais": "Australia",
+  "sitio_web": "https://www.unimelb.edu.au",
+  "carreras": [
+    {
+      "nombre": "Bachelor of Science (especialidad en computación)",
+      "areas": [
+        "ciberseguridad",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 3,
+      "url": "https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/"
+    }
+  ],
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 22,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings?page=1",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 31,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/au",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "CS se estudia como especialidad dentro del Bachelor of Science; el nombre exacto no se confirmó."
+    }
+  ],
+  "fotos": [
+    {
+      "archivo": "assets/campus/melbourne/01.jpg",
+      "alt": "Campus de University of Melbourne",
+      "autor": "cogdogblog",
+      "licencia": "CC0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Old_Arts_Building%2C_University_of_Melbourne_%282650386749%29.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Old_Arts_Building%2C_University_of_Melbourne_%282650386749%29.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/melbourne/02.jpg",
+      "alt": "Campus de University of Melbourne",
+      "autor": "Autor no indicado",
+      "licencia": "CC0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:University_of_Melbourne%2C_Old_Arts_Building.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Melbourne%2C_Old_Arts_Building.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "la página de cuotas dio error",
+    "costo_anual.vida": "no obtenido",
+    "aceptacion.tasa_pct": "no publicada",
+    "becas": "no consultado"
+  },
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "AUD",
+    "anio_academico": "2027",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "numerica",
+    "nota": "Rango de selección más bajo en 2026: 91.00 (solo orientativo)."
+  },
+  "fotos_busqueda": "University of Melbourne campus"
+}

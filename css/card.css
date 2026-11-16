@@ -1,0 +1,143 @@
+/* Carta de universidad, galería y sellos de decisión. */
+.carta {
+  --dx: 0px; --dy: 0px; --rot: 0deg; --fuerza: 0;
+  position: relative;
+  display: grid;
+  background: var(--papel);
+  border-radius: var(--radio-carta);
+  box-shadow: var(--sombra-carta);
+  transform: translate(var(--dx), var(--dy)) rotate(var(--rot));
+  transition: transform var(--mov-medio) ease-out;
+}
+.carta--arrastrando { transition: none; cursor: grabbing; }
+.carta--sale { transition: transform var(--mov-medio) var(--curva-salida), opacity var(--mov-medio); opacity: 0; }
+
+.carta__principal { position: relative; touch-action: none; cursor: grab; user-select: none; }
+.carta__cuerpo { padding: var(--e-4) var(--e-5) var(--e-5); }
+.carta__nombre { font-size: var(--t-2xl); font-weight: 800; font-stretch: 90%; }
+.carta__lugar { color: var(--tinta-suave); margin-top: var(--e-1); }
+.carta__detalle {
+  display: grid;
+  gap: var(--e-5);
+  align-content: start;
+  padding: var(--e-5);
+  border-top: 1px dashed var(--linea);
+}
+.carta__detalle h3, .carta__carreras h3 { font-size: var(--t-m); margin-bottom: var(--e-2); }
+.carta__carreras { margin-top: var(--e-4); }
+.carta__carreras ul { margin: 0; padding-left: 1.1rem; }
+
+/* Galería */
+.galeria {
+  position: relative;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  border-radius: var(--radio-carta) var(--radio-carta) 0 0;
+  background: linear-gradient(135deg, var(--tinta) 0%, #3b4a9a 55%, var(--quetzal) 130%);
+  touch-action: pan-y;
+  cursor: default;
+}
+.galeria__foto { width: 100%; height: 100%; object-fit: cover; }
+.galeria--vacia { display: grid; place-items: center; color: var(--papel); }
+.galeria__credito {
+  position: absolute; left: 0; bottom: 0;
+  max-width: 100%;
+  padding: 2px var(--e-2);
+  background: rgba(27, 35, 80, 0.78);
+  color: var(--papel);
+  font-size: 0.7rem;
+}
+.galeria__flecha {
+  position: absolute; top: 50%;
+  width: 44px; height: 44px;
+  transform: translateY(-50%);
+  border: 0; border-radius: 50%;
+  background: rgba(255, 255, 255, 0.9);
+  color: var(--tinta);
+  font-size: 1.6rem; line-height: 1;
+  cursor: pointer;
+}
+.galeria__flecha--antes { left: var(--e-2); }
+.galeria__flecha--despues { right: var(--e-2); }
+.galeria__puntos { position: absolute; top: var(--e-2); left: 0; right: 0; display: flex; justify-content: center; gap: 2px; }
+.galeria__punto { width: 24px; height: 24px; padding: 0; border: 0; background: none; cursor: pointer; }
+.galeria__punto::before {
+  content: ""; display: block; margin: auto;
+  width: 10px; height: 10px; border-radius: 50%;
+  background: rgba(255, 255, 255, 0.55);
+  box-shadow: 0 0 0 1px var(--tinta);
+}
+.galeria__punto[aria-current="true"]::before { background: var(--papel); width: 14px; height: 14px; }
+
+/* Resumen de admisión */
+.admision { margin: var(--e-4) 0; padding: var(--e-3) var(--e-4); background: var(--sobre); border-radius: var(--radio-control); }
+.admision__titulo strong { font-family: var(--fuente-titulo); font-size: var(--t-l); }
+.admision__barra { position: relative; height: 8px; margin: var(--e-2) 0; border-radius: 4px; background: var(--sobre-oscuro); }
+.admision__barra span { position: absolute; top: 0; bottom: 0; border-radius: 4px; background: var(--tinta); }
+.admision__pie { color: var(--tinta-suave); font-size: var(--t-xs); }
+
+/* Ficha de datos */
+.datos { display: grid; grid-template-columns: 1fr 1fr; gap: var(--e-4) var(--e-4); margin: 0; }
+.dato:first-child, .dato:last-child { grid-column: 1 / -1; }
+.dato dt { color: var(--tinta-suave); font-size: var(--t-s); }
+.dato dd { margin: 0; display: grid; }
+.dato__valor { font-family: var(--fuente-titulo); font-weight: 700; font-size: var(--t-l); line-height: 1.2; }
+.dato__valor--vacio { color: var(--tinta-suave); font-weight: 400; font-style: italic; }
+.dato__pie { color: var(--tinta-suave); font-size: var(--t-xs); }
+
+/* Detalle */
+.motivos, .lista-simple { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--e-2); }
+.motivos li { display: grid; grid-template-columns: 1.5rem 1fr; }
+.motivos__signo { font-weight: 700; }
+.motivos li[data-signo="+"] .motivos__signo { color: var(--quetzal); }
+.motivos li[data-signo="−"] .motivos__signo { color: var(--carmesi); }
+.motivos + .nota { margin-top: var(--e-3); }
+.marca { margin-left: var(--e-2); padding: 1px var(--e-2); border: 1px solid var(--tinta); border-radius: 4px; font-size: var(--t-xs); }
+.fuentes summary { cursor: pointer; font-weight: 700; padding: var(--e-2) 0; }
+
+/* Sellos: tinta que aparece al arrastrar y golpea al decidir */
+.sello {
+  position: absolute; top: 18%; left: 50%;
+  padding: var(--e-2) var(--e-5);
+  border: 5px solid currentColor; border-radius: 12px;
+  background: rgba(255, 255, 255, 0.92);
+  font-family: var(--fuente-titulo); font-weight: 800; font-size: var(--t-3xl); line-height: 1;
+  white-space: nowrap;
+  opacity: 0;
+  transform: translateX(-50%) rotate(-12deg);
+  pointer-events: none;
+}
+.sello--gusta { color: var(--quetzal); }
+.sello--neutral { color: var(--ambar); transform: translateX(-50%) rotate(0deg); }
+.sello--no { color: var(--carmesi); transform: translateX(-50%) rotate(12deg); }
+.carta[data-sello="gusta"] .sello--gusta,
+.carta[data-sello="neutral"] .sello--neutral,
+.carta[data-sello="no"] .sello--no { opacity: var(--fuerza); }
+.carta--golpe .sello { animation: golpe var(--mov-medio) var(--curva-golpe); }
+@keyframes golpe { from { scale: 1.6; } to { scale: 1; } }
+
+@media (min-width: 900px) {
+  .carta { grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); }
+  .carta__detalle { border-top: 0; border-left: 1px dashed var(--linea); }
+  .galeria { border-radius: var(--radio-carta) 0 0 0; }
+}
+
+/* Alertas: riesgo y tomar en cuenta */
+.alertas { list-style: none; margin: var(--e-3) 0 0; padding: 0; display: grid; gap: var(--e-2); }
+.alerta { padding: var(--e-2) var(--e-3); border-left: 5px solid; border-radius: 6px; font-size: var(--t-s); }
+.alerta--riesgo { border-color: var(--carmesi); background: var(--carmesi-fondo); }
+.alerta--riesgo strong { color: var(--carmesi); }
+.alerta--tomar-en-cuenta { border-color: var(--ambar); background: var(--ambar-fondo); }
+.alerta--tomar-en-cuenta strong { color: var(--ambar); }
+
+/* Enlace a más fotos y estado sin imagen */
+.galeria__enlace {
+  position: absolute; right: 0; bottom: 0;
+  padding: 2px var(--e-2);
+  background: var(--papel); color: var(--tinta);
+  border-top-left-radius: 6px;
+  font-size: var(--t-xs); font-weight: 700;
+}
+.galeria--vacia .galeria__enlace { display: block; position: static; margin-top: var(--e-2); padding: var(--e-2) var(--e-3); border-radius: 6px; }
+.galeria--vacia { align-content: center; justify-items: center; }
+.galeria--sin-imagen .galeria__foto { visibility: hidden; }

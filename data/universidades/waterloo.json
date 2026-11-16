@@ -1,0 +1,132 @@
+{
+  "id": "waterloo",
+  "nombre": "University of Waterloo",
+  "ciudad": "Waterloo",
+  "pais": "Canadá",
+  "sitio_web": "https://uwaterloo.ca",
+  "carreras": [
+    {
+      "nombre": "Business Administration (Laurier) and Computer Science (Waterloo) Double Degree",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 5,
+      "url": "https://uwaterloo.ca/future-students/programs/business-administration-computer-science-double-degree"
+    },
+    {
+      "nombre": "Computer Science (BCS/BMath, co-op)",
+      "areas": [
+        "ciberseguridad",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": null,
+      "url": "https://uwaterloo.ca/future-students/programs/computer-science"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": 73000,
+      "fuente": "https://uwaterloo.ca/future-students/financing/tuition",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "CAD",
+    "anio_academico": "primer año (página vigente)",
+    "nota": "Libros y materiales: CAD 1,500 aparte; residencia solo con la calculadora."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 113,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 27,
+      "fuente": "https://africarrieres.com/bourses/classements/canada",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://uwaterloo.ca/future-students/programs/computer-science",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": {
+      "valor": 93,
+      "escala": 100,
+      "aproximado": true,
+      "fuente": "https://uwaterloo.ca/future-students/programs/business-administration-computer-science-double-degree",
+      "verificado_en": "2026-11-14"
+    },
+    "tipo_admision": "holistica",
+    "nota": "Selección individual con promedio de 90 bajos a medios; el formulario AIF es obligatorio. Co-op de hasta 2 años de trabajo pagado."
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "Matrícula muy alta (CAD 73,000 el primer año) y no se encontró beca grande para internacionales."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "El AIF es obligatorio y piden promedio de más de 90."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "La doble titulación con Laurier dura 5 años y solo existe en modalidad co-op (4 a 5 periodos de trabajo)."
+    }
+  ],
+  "fotos_busqueda": "University of Waterloo campus",
+  "fotos": [
+    {
+      "archivo": "assets/campus/waterloo/01.jpg",
+      "alt": "Campus de University of Waterloo",
+      "autor": "JFVoll",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:University_of_Waterloo_%28Waterloo_Campus%29_-_Waterloo%2C_Ontario.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Waterloo_%28Waterloo_Campus%29_-_Waterloo%2C_Ontario.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/waterloo/02.jpg",
+      "alt": "Campus de University of Waterloo",
+      "autor": "Victor Vucicevich",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:University_of_Waterloo_South_Campus_Greens.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Waterloo_South_Campus_Greens.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "aceptacion.tasa_pct": "no publicada",
+    "becas": "no consultado por límite de llamadas",
+    "costo_anual.vida": "solo con calculadora"
+  }
+}

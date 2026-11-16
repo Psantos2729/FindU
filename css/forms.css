@@ -1,0 +1,69 @@
+/* Formulario de perfil. */
+.perfil { max-width: 42rem; }
+.perfil__intro { margin: var(--e-2) 0 var(--e-5); color: var(--tinta-suave); }
+.perfil fieldset {
+  margin: 0 0 var(--e-5);
+  padding: var(--e-5);
+  border: 1px solid var(--linea);
+  border-radius: var(--radio-carta);
+  background: var(--papel);
+}
+.perfil legend {
+  padding: 0 var(--e-2);
+  font-family: var(--fuente-titulo);
+  font-weight: 700;
+  font-size: var(--t-l);
+}
+.campo { display: grid; gap: var(--e-1); margin-bottom: var(--e-4); }
+.campo:last-child { margin-bottom: 0; }
+.campo__etiqueta { font-weight: 700; }
+.campo__ayuda { color: var(--tinta-suave); font-size: var(--t-s); }
+.campo__error { color: var(--carmesi); font-size: var(--t-s); font-weight: 700; }
+.campo input[type="text"],
+.campo input[type="number"],
+.campo select,
+.campo textarea {
+  width: 100%;
+  min-height: 44px;
+  padding: var(--e-2) var(--e-3);
+  border: 2px solid var(--linea);
+  border-radius: var(--radio-control);
+  background: var(--papel);
+  color: var(--tinta);
+  font: inherit;
+}
+.campo textarea { min-height: 5.5rem; resize: vertical; }
+.campo [aria-invalid="true"] { border-color: var(--carmesi); }
+.campo--par { grid-template-columns: 1fr 1fr; column-gap: var(--e-3); align-items: end; }
+.campo--par > .campo__etiqueta,
+.campo--par > .campo__ayuda,
+.campo--par > .campo__error { grid-column: 1 / -1; }
+
+/* Casillas tipo ficha */
+.opciones { display: flex; flex-wrap: wrap; gap: var(--e-2); }
+.opcion { position: relative; }
+.opcion input { position: absolute; opacity: 0; inset: 0; cursor: pointer; }
+.opcion span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: var(--e-2) var(--e-4);
+  border: 2px solid var(--linea);
+  border-radius: 999px;
+  background: var(--papel);
+}
+.opcion input:checked + span {
+  border-color: var(--tinta);
+  background: var(--tinta);
+  color: var(--papel);
+}
+.opcion input:focus-visible + span { outline: 3px solid var(--tinta); outline-offset: 3px; }
+
+.perfil details { margin-bottom: var(--e-5); }
+.perfil summary {
+  cursor: pointer;
+  padding: var(--e-3) 0;
+  font-family: var(--fuente-titulo);
+  font-weight: 700;
+  font-size: var(--t-l);
+}

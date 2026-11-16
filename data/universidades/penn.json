@@ -1,0 +1,101 @@
+{
+  "id": "penn",
+  "nombre": "University of Pennsylvania",
+  "ciudad": "Filadelfia",
+  "pais": "Estados Unidos",
+  "sitio_web": "https://www.upenn.edu",
+  "carreras": [
+    {
+      "nombre": "Jerome Fisher Program in Management & Technology (M&T)",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://fisher.wharton.upenn.edu/"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "USD",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 4.24,
+      "fuente": "https://en.wikipedia.org/wiki/University_of_Pennsylvania",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 15,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 36,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/us",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": 1510,
+      "p75": 1560,
+      "fuente": "https://en.wikipedia.org/wiki/University_of_Pennsylvania",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": null
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "M&T admite solo 50 estudiantes al año; la tasa mostrada es de toda la universidad y la del programa es menor."
+    }
+  ],
+  "fotos_busqueda": "University of Pennsylvania College Hall",
+  "fotos": [
+    {
+      "archivo": "assets/campus/penn/01.jpg",
+      "alt": "Campus de University of Pennsylvania",
+      "autor": "Bestbudbrian",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:North_facade_of_College_Hall%2C_Penn_Campus.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/North_facade_of_College_Hall%2C_Penn_Campus.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Pendiente de investigar: aún no se buscó la matrícula para internacionales",
+    "becas": "Pendiente de investigar"
+  }
+}

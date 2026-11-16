@@ -1,0 +1,110 @@
+{
+  "id": "bocconi",
+  "nombre": "Università Bocconi",
+  "ciudad": "Milán",
+  "pais": "Italia",
+  "sitio_web": "https://www.unibocconi.it/en",
+  "carreras": [
+    {
+      "nombre": "Management and Computer Science (BSc in Economics, Management and Computer Science)",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 3,
+      "url": "https://www.unibocconi.it/en/programs/bachelor-science/economics-management-and-computer-science"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": 17700,
+      "fuente": "https://www.unibocconi.it/en/applying-bocconi/bachelor-and-law-programs/fees",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "EUR",
+    "anio_academico": "2027-28",
+    "nota": "Solo hay una referencia de alojamiento de ~EUR 8,000 por año en la página del programa WBB."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": null,
+      "fuente": null,
+      "verificado_en": null
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": null,
+    "nota": "La página del programa no da método de admisión; está en la sección 'Applying to Bocconi'."
+  },
+  "becas": [
+    {
+      "nombre": "Reducciones parciales de matrícula",
+      "cobertura": "Descuentos de 20%, 40%, 60% u 80% (p. ej., EUR 14,160 con 20%)",
+      "convocatoria": "No indicada (página en actualización)",
+      "via_indesgua": false,
+      "url": "https://www.unibocconi.it/en/applying-bocconi/bachelor-and-law-programs/fees",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "La tarifa de EUR 17,700 es la de primer año de BSc; la página no da una tarifa separada para no-UE."
+    }
+  ],
+  "fotos_busqueda": "Bocconi University Milan",
+  "fotos": [
+    {
+      "archivo": "assets/campus/bocconi/01.jpg",
+      "alt": "Campus de Università Bocconi",
+      "autor": "Paolo Gamba",
+      "licencia": "CC BY 2.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Bocconi_Grafton_Building_Milan.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Bocconi_Grafton_Building_Milan.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "aceptacion.tasa_pct": "No publicada.",
+    "rankings.mundial": "No se pudo verificar la posición",
+    "rankings.especialidad": "No se pudo verificar la posición",
+    "costo_anual.vida": "No se encontró una estimación de la universidad"
+  }
+}

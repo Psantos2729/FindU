@@ -1,0 +1,112 @@
+{
+  "id": "cornell",
+  "nombre": "Cornell University",
+  "ciudad": "Ithaca",
+  "pais": "Estados Unidos",
+  "sitio_web": "https://www.cornell.edu",
+  "carreras": [
+    {
+      "nombre": "Computer Science (pregrado)",
+      "areas": [
+        "computer-science",
+        "ciberseguridad"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": null
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "USD",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 8.4,
+      "fuente": "https://en.wikipedia.org/wiki/Cornell_University",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 16,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 17,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/us",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": 1500,
+      "p75": 1570,
+      "fuente": "https://en.wikipedia.org/wiki/Cornell_University",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": "El rango de SAT se armó sumando los rangos por sección, así que es aproximado."
+  },
+  "becas": [],
+  "alertas": [],
+  "fotos_busqueda": "Cornell University campus",
+  "fotos": [
+    {
+      "archivo": "assets/campus/cornell/01.jpg",
+      "alt": "Campus de Cornell University",
+      "autor": "Kenneth C. Zirkel",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Cornell_University_Arts_Quad_from_McGraw_Tower.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Cornell_University_Arts_Quad_from_McGraw_Tower.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/cornell/02.jpg",
+      "alt": "Campus de Cornell University",
+      "autor": "Andrew Parmet",
+      "licencia": "CC BY 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Cornell_West_Campus_from_McGraw_Tower.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Cornell_West_Campus_from_McGraw_Tower.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/cornell/03.jpg",
+      "alt": "Campus de Cornell University",
+      "autor": "Andrew Parmet",
+      "licencia": "CC BY 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Cornell_Arts_Quadrangle_from_McGraw_Tower.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Cornell_Arts_Quadrangle_from_McGraw_Tower.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Pendiente de investigar: aún no se buscó la matrícula para internacionales",
+    "becas": "Pendiente de investigar"
+  }
+}

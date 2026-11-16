@@ -1,0 +1,112 @@
+{
+  "id": "michigan",
+  "nombre": "University of Michigan",
+  "ciudad": "Ann Arbor",
+  "pais": "Estados Unidos",
+  "sitio_web": "https://umich.edu",
+  "carreras": [
+    {
+      "nombre": "Computer Science (pregrado)",
+      "areas": [
+        "computer-science",
+        "ciberseguridad"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": null
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "USD",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 16.42,
+      "fuente": "https://en.wikipedia.org/wiki/University_of_Michigan",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 51,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 52,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/us",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": 1370,
+      "p75": 1530,
+      "fuente": "https://en.wikipedia.org/wiki/University_of_Michigan",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": "SAT opcional: recomendado pero no obligatorio."
+  },
+  "becas": [],
+  "alertas": [],
+  "fotos_busqueda": "University of Michigan campus",
+  "fotos": [
+    {
+      "archivo": "assets/campus/michigan/01.jpg",
+      "alt": "Campus de University of Michigan",
+      "autor": "Jha4ceb",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:A_picture_of_the_University_of_Michigan_campus_in_Ann_Arbor%2C_Michigan%2C_USA.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/A_picture_of_the_University_of_Michigan_campus_in_Ann_Arbor%2C_Michigan%2C_USA.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/michigan/02.jpg",
+      "alt": "Campus de University of Michigan",
+      "autor": "Dwight Burdette",
+      "licencia": "CC BY 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Michigan_Union_at_Night%2C_University_of_Michigan_Campus%2C_Ann_Arbor%2C_Michigan.JPG",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Michigan_Union_at_Night%2C_University_of_Michigan_Campus%2C_Ann_Arbor%2C_Michigan.JPG?width=1280"
+    },
+    {
+      "archivo": "assets/campus/michigan/03.jpg",
+      "alt": "Campus de University of Michigan",
+      "autor": "w_lemay",
+      "licencia": "CC BY-SA 2.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Chemistry_Building%2C_University_of_Michigan%2C_University_Avenue%2C_Ann_Arbor%2C_MI_-_54381406033.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Chemistry_Building%2C_University_of_Michigan%2C_University_Avenue%2C_Ann_Arbor%2C_MI_-_54381406033.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Pendiente de investigar: aún no se buscó la matrícula para internacionales",
+    "becas": "Pendiente de investigar"
+  }
+}

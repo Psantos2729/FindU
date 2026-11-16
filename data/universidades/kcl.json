@@ -1,0 +1,109 @@
+{
+  "id": "kcl",
+  "nombre": "King's College London",
+  "ciudad": "Londres",
+  "pais": "Reino Unido",
+  "sitio_web": "https://www.kcl.ac.uk",
+  "carreras": [
+    {
+      "nombre": "Computer Science with Management BSc",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 3,
+      "url": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-bsc"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "GBP",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 37,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 46,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/gb",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-bsc/entry-requirements",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "numerica",
+    "nota": "A-levels A*A*A con A en Matemáticas, o IB 39 con 6 en HL Math AA. No aceptan fundaciones fuera del Reino Unido ni el Year 0 integrado; sí el King's International Foundation Programme, que da progresión garantizada. Los requisitos por país están en un selector que no se pudo leer. Idioma: Banda D de King's Banda D (sin puntaje en la página)."
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "Piden un nivel muy alto (A*A*A / IB 39); confirmar en el selector por país si el Bachillerato guatemalteco basta o si se necesita la fundación de King's."
+    }
+  ],
+  "fotos_busqueda": "King's College London Strand campus",
+  "fotos": [
+    {
+      "archivo": "assets/campus/kcl/01.jpg",
+      "alt": "Campus de King's College London",
+      "autor": "KiloCharlieLima",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:King%27s_College_London%2C_the_old_quad_at_Strand_Campus.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/King%27s_College_London%2C_the_old_quad_at_Strand_Campus.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/kcl/02.jpg",
+      "alt": "Campus de King's College London",
+      "autor": "KiloCharlieLima",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Top_floor_of_King%27s_Building_Strand_Campus.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Top_floor_of_King%27s_Building_Strand_Campus.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Las páginas del curso y de tarifas no mostraron la cifra internacional (2 intentos).",
+    "aceptacion.tasa_pct": "No publicada.",
+    "becas": "La página del curso no menciona becas.",
+    "costo_anual.vida": "Sin cifra oficial."
+  }
+}

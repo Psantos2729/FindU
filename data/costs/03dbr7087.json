@@ -1,0 +1,25 @@
+{
+ "ror_id": "03dbr7087",
+ "costo_anual": {
+  "matricula": {
+   "valor": 66110,
+   "fuente": "https://www.registrar.utoronto.ca/us-student-aid/",
+   "verificado_en": "2026-11-16",
+   "usd": 46367
+  },
+  "matricula_rango": null,
+  "moneda": "CAD",
+  "anio_academico": "2026-27",
+  "nota": "Fees Estimate de Faculty of Arts & Science, Bachelor's Degree, 1er año, sept 2026-abr 2027 (Fall y Winter). Página para estudiantes de EE. UU.; incluye international program fees, excluye cuotas incidentales/ancilares y gastos de vida. La fuente indica costos aproximados; la matrícula final aparece en ACORN a mediados de julio. El texto está fragmentado: el total listado (69,634) no cuadra con el gasto de vida listado (36,174), verificar en la fuente.",
+  "aproximado": false,
+  "tasa_usd": {
+   "por_usd": 1.4258,
+   "fecha": "2026-11-13",
+   "fuente": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+  }
+ },
+ "becas": [],
+ "sin_dato": {
+  "becas": "Sin dato: el texto solo menciona préstamos (U.S. Direct Loans), no becas."
+ }
+}

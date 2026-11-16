@@ -1,0 +1,120 @@
+{
+  "id": "oxford",
+  "nombre": "University of Oxford",
+  "ciudad": "Oxford",
+  "pais": "Reino Unido",
+  "sitio_web": "https://www.ox.ac.uk",
+  "carreras": [
+    {
+      "nombre": "Computer Science (BA / MCompSci)",
+      "areas": [
+        "ciberseguridad",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 3,
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/computer-science"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "GBP",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 6,
+      "fuente": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/computer-science",
+      "verificado_en": "2026-11-14"
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 4,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 4,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/gb",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/computer-science",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "prueba-propia",
+    "nota": "Examen MAT y entrevista (19% de candidatos entrevistados en 2019-21); todos aplican al curso de 4 años y eligen en el 3.er año."
+  },
+  "becas": [
+    {
+      "nombre": "Reach Oxford Scholarship",
+      "cobertura": "Matrícula completa, beca para costo de vida y un vuelo de ida y vuelta al año, durante 3-4 años",
+      "convocatoria": "Requiere oferta de Oxford; para ingreso 2026 cerró el 4-feb-2026 a las 12:00 (hora RU). Guatemala es elegible",
+      "via_indesgua": false,
+      "url": "https://www.ox.ac.uk/admissions/undergraduate/fees-and-funding/oxford-support/reach-oxford-scholarship",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Tasa de éxito de 6% y examen MAT obligatorio."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "La beca Reach Oxford cubre todo y Guatemala califica, pero solo se pide después de recibir oferta."
+    }
+  ],
+  "fotos_busqueda": "Oxford Radcliffe Camera",
+  "fotos": [
+    {
+      "archivo": "assets/campus/oxford/01.jpg",
+      "alt": "Campus de University of Oxford",
+      "autor": "Julian Herzog",
+      "licencia": "CC BY 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Radcliffe_Camera_Oxford_2018_03.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Radcliffe_Camera_Oxford_2018_03.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/oxford/02.jpg",
+      "alt": "Campus de University of Oxford",
+      "autor": "Julian Herzog",
+      "licencia": "CC BY 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Radcliffe_Camera_Oxford_2018_02.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Radcliffe_Camera_Oxford_2018_02.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "la página de cuotas solo da un rango antiguo (2020), sin la cifra de CS",
+    "costo_anual.vida": "No se encontró una estimación de la universidad"
+  }
+}

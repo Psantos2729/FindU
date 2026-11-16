@@ -1,0 +1,130 @@
+{
+  "id": "xidian",
+  "nombre": "Xidian University",
+  "ciudad": "Xi'an",
+  "pais": "China",
+  "sitio_web": "https://en.xidian.edu.cn",
+  "carreras": [
+    {
+      "nombre": "Computer Science (pregrado)",
+      "areas": [
+        "ciberseguridad",
+        "computer-science"
+      ],
+      "idioma": "inglés (programas en inglés según fuente no oficial)",
+      "duracion_anios": null,
+      "url": null
+    }
+  ],
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": "401–450",
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/cn",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "becas": [
+    {
+      "nombre": "Beca Huashan",
+      "cobertura": "Asignación de CNY 1,200 al mes para pregrado",
+      "convocatoria": "Fecha listada: 15-may-2025 (desactualizada, fuente no oficial)",
+      "via_indesgua": false,
+      "url": "https://applyforchina.com/universities/xidian-university/",
+      "verificado_en": "2026-11-14"
+    },
+    {
+      "nombre": "Beca del Gobierno de China / del Gobierno de Shaanxi",
+      "cobertura": "Monto no indicado",
+      "convocatoria": null,
+      "via_indesgua": false,
+      "url": "https://applyforchina.com/universities/xidian-university/",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "No se confirmó que Computer Science o ciberseguridad se den en inglés."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Es fuerte en ciberseguridad, pero todos los datos vienen de una fuente no oficial."
+    }
+  ],
+  "fotos": [
+    {
+      "archivo": "assets/campus/xidian/01.jpg",
+      "alt": "Campus de Xidian University",
+      "autor": "Nishino Asuka",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:North_Campus_Main_Gate_of_Xidian_University.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/North_Campus_Main_Gate_of_Xidian_University.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/xidian/02.jpg",
+      "alt": "Campus de Xidian University",
+      "autor": "Nishino Asuka",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:South_Gate_of_North_Campus_of_Xidian_University.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/South_Gate_of_North_Campus_of_Xidian_University.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual.vida": "no obtenido",
+    "aceptacion.tasa_pct": "no publicada",
+    "rankings.mundial": "fuera de las páginas consultadas"
+  },
+  "costo_anual": {
+    "matricula": {
+      "valor": 17000,
+      "fuente": "https://applyforchina.com/universities/xidian-university/",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "CNY",
+    "anio_academico": "2027",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": null,
+    "nota": null
+  },
+  "fotos_busqueda": "Xidian University campus"
+}

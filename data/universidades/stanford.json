@@ -1,0 +1,127 @@
+{
+  "id": "stanford",
+  "nombre": "Stanford University",
+  "ciudad": "Stanford",
+  "pais": "Estados Unidos",
+  "sitio_web": "https://www.stanford.edu",
+  "carreras": [
+    {
+      "nombre": "Computer Science (pregrado)",
+      "areas": [
+        "computer-science",
+        "ciberseguridad"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": null
+    },
+    {
+      "nombre": "Management Science & Engineering (MS&E)",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://msande.stanford.edu/"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "USD",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 3.7,
+      "fuente": "https://en.wikipedia.org/wiki/Stanford_University",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 2,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 2,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/us",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": 1500,
+      "p75": 1570,
+      "fuente": "https://en.wikipedia.org/wiki/Stanford_University",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": null
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "MS&E combina investigación de operaciones, economía y organizaciones; no es un programa de CS + negocios como tal."
+    }
+  ],
+  "fotos_busqueda": "Stanford University Main Quad",
+  "fotos": [
+    {
+      "archivo": "assets/campus/stanford/01.jpg",
+      "alt": "Campus de Stanford University",
+      "autor": "King of Hearts",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Stanford_University_Main_Quad_May_2011_005.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Stanford_University_Main_Quad_May_2011_005.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/stanford/02.jpg",
+      "alt": "Campus de Stanford University",
+      "autor": "King of Hearts",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Stanford_University_Main_Quad_May_2011_001.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Stanford_University_Main_Quad_May_2011_001.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/stanford/03.jpg",
+      "alt": "Campus de Stanford University",
+      "autor": "King of Hearts",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Stanford_University_from_Hoover_Tower_May_2011_004.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Stanford_University_from_Hoover_Tower_May_2011_004.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Pendiente de investigar: aún no se buscó la matrícula para internacionales",
+    "becas": "Pendiente de investigar"
+  }
+}

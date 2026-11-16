@@ -1,0 +1,130 @@
+{
+  "id": "ubc",
+  "nombre": "University of British Columbia",
+  "ciudad": "Vancouver",
+  "pais": "Canadá",
+  "sitio_web": "https://www.ubc.ca",
+  "carreras": [
+    {
+      "nombre": "Business and Computer Science (BCom, combined major)",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://you.ubc.ca/ubc_programs/business-computer-science/"
+    },
+    {
+      "nombre": "Bachelor of Science (Computer Science)",
+      "areas": [
+        "ciberseguridad",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://you.ubc.ca/programs/computer-science-vancouver/"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": 53082,
+      "fuente": "https://students.ubc.ca/finances/tuition-fees/undergraduate-tuition-fees",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "CAD",
+    "anio_academico": "desde verano 2026 (30 créditos)",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 45,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 27,
+      "fuente": "https://africarrieres.com/bourses/classements/canada",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": null
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "La matrícula de CAD 53,082 es por 30 créditos; el costo sube si se llevan más créditos."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "El título es un Bachelor of Commerce. Solo se verificaron los requisitos para IB, no para el Bachillerato de Guatemala."
+    }
+  ],
+  "fotos_busqueda": "University of British Columbia campus",
+  "fotos": [
+    {
+      "archivo": "assets/campus/ubc/01.jpg",
+      "alt": "Campus de University of British Columbia",
+      "autor": "JimDeLaHunt",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:University_of_British_Columbia%2C_north_end_of_campus%2C_aerial_from_northeast.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_British_Columbia%2C_north_end_of_campus%2C_aerial_from_northeast.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/ubc/02.jpg",
+      "alt": "Campus de University of British Columbia",
+      "autor": "Leoboudv",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:View_of_UBC_campus_%28August_2009%29.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/View_of_UBC_campus_%28August_2009%29.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/ubc/03.jpg",
+      "alt": "Campus de University of British Columbia",
+      "autor": "F B",
+      "licencia": "CC BY-SA 2.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Iona_Building%2C_University_of_British_Columbia.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Iona_Building%2C_University_of_British_Columbia.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "aceptacion.tasa_pct": "no publicada",
+    "becas": "no consultado por límite de llamadas",
+    "costo_anual.vida": "no obtenido"
+  }
+}

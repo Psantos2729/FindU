@@ -1,0 +1,113 @@
+{
+  "id": "northeastern",
+  "nombre": "Northeastern University",
+  "ciudad": "Boston",
+  "pais": "Estados Unidos",
+  "sitio_web": "https://www.northeastern.edu",
+  "carreras": [
+    {
+      "nombre": "Computer Science and Business Administration, BS",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://catalog.northeastern.edu/undergraduate/computer-information-science/computer-information-science-combined-majors/computer-science-business-administration-bs/"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "USD",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 5.6,
+      "fuente": "https://en.wikipedia.org/wiki/Northeastern_University",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 152,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/us",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": 1440,
+      "p75": 1510,
+      "fuente": "https://en.wikipedia.org/wiki/Northeastern_University",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": null
+  },
+  "becas": [],
+  "alertas": [],
+  "fotos_busqueda": "Northeastern University campus",
+  "fotos": [
+    {
+      "archivo": "assets/campus/northeastern/01.jpg",
+      "alt": "Campus de Northeastern University",
+      "autor": "Edward Orde",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Northeastern_University.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Northeastern_University.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/northeastern/02.jpg",
+      "alt": "Campus de Northeastern University",
+      "autor": "Edward Orde",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Empty_Northeastern_University_campus%2C_March_2020.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Empty_Northeastern_University_campus%2C_March_2020.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/northeastern/03.jpg",
+      "alt": "Campus de Northeastern University",
+      "autor": "G. Edward Johnson",
+      "licencia": "CC BY 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Dodge_Hall_Boston_MA_2023-06-26_15-19-22.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Dodge_Hall_Boston_MA_2023-06-26_15-19-22.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Pendiente de investigar: aún no se buscó la matrícula para internacionales",
+    "rankings.mundial": "No se pudo verificar su posición en QS 2027",
+    "becas": "Pendiente de investigar"
+  }
+}

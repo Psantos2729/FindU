@@ -1,0 +1,117 @@
+{
+  "id": "milano",
+  "nombre": "Università degli Studi di Milano",
+  "ciudad": "Milán y Pavía",
+  "pais": "Italia",
+  "sitio_web": "https://www.unimi.it/en",
+  "carreras": [
+    {
+      "nombre": "BSc Artificial Intelligence",
+      "areas": [
+        "inteligencia-artificial",
+        "computer-science",
+        "data-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 3,
+      "url": "https://www.unimi.it/en/education/bachelor/artificial-intelligence"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": "2026-11-14"
+    },
+    "moneda": "EUR",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": "2026-11-14"
+    },
+    "ambito": null
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 270,
+      "fuente": "https://www.agi.it/cronaca/news/2026-06-18/universit-italiane-classifica-37618095/",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": "251–300",
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/it",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": true,
+      "minimo": 979,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://en.unipv.it/en/node/1459",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "numerica",
+    "nota": "Programa conjunto con Pavía (sede administrativa) y Milano-Bicocca; las clases se reparten entre los tres campus. Para no-UE residentes fuera de Italia la prueba de admisión es el SAT (mínimo 979/1600) y los cupos se asignan por puntaje. Inglés B2. La solicitud 2026/27 fue del 28 de abril al 18 de mayo de 2026 en apply.unipv.eu."
+  },
+  "becas": [],
+  "fotos_busqueda": "Università degli Studi di Milano Ca' Granda",
+  "fotos": [
+    {
+      "archivo": "assets/campus/milano/01.jpg",
+      "alt": "Campus de Università degli Studi di Milano",
+      "autor": "Stefano Stabile",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Universit%C3%A0_degli_Studi_di_Milano_-_sede_via_festa_del_perdono_-_Ca%27_Granda_-_cortile_interno.JPG",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A0_degli_Studi_di_Milano_-_sede_via_festa_del_perdono_-_Ca%27_Granda_-_cortile_interno.JPG?width=1280"
+    },
+    {
+      "archivo": "assets/campus/milano/02.jpg",
+      "alt": "Campus de Università degli Studi di Milano",
+      "autor": "Marco Varisco",
+      "licencia": "CC BY-SA 2.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Sala_Crociera%2C_Universit%C3%A0_degli_Studi_di_Milano.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Sala_Crociera%2C_Universit%C3%A0_degli_Studi_di_Milano.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/milano/03.jpg",
+      "alt": "Campus de Università degli Studi di Milano",
+      "autor": "Melancholia~itwiki",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:20170122_Facciata_Ca_Granda%2C_particolare.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/20170122_Facciata_Ca_Granda%2C_particolare.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Para no-UE, Pavía cobra una cuota plana de EUR 400 a 4,500 según la ciudadanía (dato de portales externos); falta confirmar la de Guatemala",
+    "aceptacion.tasa_pct": "No se publica una tasa; en 2025/26 hubo 50 cupos para no-UE residentes en el extranjero",
+    "becas": "No se verificó ninguna beca para este programa"
+  },
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "El SAT es la prueba de admisión para no-UE y los cupos se asignan por puntaje. Las clases se reparten entre Milán y Pavía."
+    }
+  ]
+}

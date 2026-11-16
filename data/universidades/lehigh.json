@@ -1,0 +1,106 @@
+{
+  "id": "lehigh",
+  "nombre": "Lehigh University",
+  "ciudad": "Bethlehem",
+  "pais": "Estados Unidos",
+  "sitio_web": "https://www.lehigh.edu",
+  "carreras": [
+    {
+      "nombre": "Computer Science and Business Honors Program (CSB)",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://csb.lehigh.edu/"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "USD",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 25,
+      "fuente": "https://en.wikipedia.org/wiki/Lehigh_University",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": null,
+      "fuente": null,
+      "verificado_en": null
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": 1420,
+      "p75": 1520,
+      "fuente": "https://en.wikipedia.org/wiki/Lehigh_University",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": null
+  },
+  "becas": [],
+  "alertas": [],
+  "fotos_busqueda": "Lehigh University campus",
+  "fotos": [
+    {
+      "archivo": "assets/campus/lehigh/01.jpg",
+      "alt": "Campus de Lehigh University",
+      "autor": "IR393DEME",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Lehigh_University_Mountain_Top_Campus.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Lehigh_University_Mountain_Top_Campus.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/lehigh/02.jpg",
+      "alt": "Campus de Lehigh University",
+      "autor": "Zeete",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Stabler_Athletic_%26_Convocation_Center%2C_Lehigh_University%2C_Bethlehem%2C_PA.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Stabler_Athletic_%26_Convocation_Center%2C_Lehigh_University%2C_Bethlehem%2C_PA.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Pendiente de investigar: aún no se buscó la matrícula para internacionales",
+    "rankings.mundial": "No se pudo verificar su posición en QS 2027",
+    "rankings.especialidad": "No se pudo verificar su posición en QS Computer Science 2026",
+    "becas": "Pendiente de investigar"
+  }
+}

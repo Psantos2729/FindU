@@ -1,0 +1,113 @@
+{
+  "id": "eth",
+  "nombre": "ETH Zurich",
+  "ciudad": "Zúrich",
+  "pais": "Suiza",
+  "sitio_web": "https://ethz.ch/en.html",
+  "carreras": [
+    {
+      "nombre": "Bachelor Informatik (Computer Science)",
+      "areas": [
+        "ciberseguridad",
+        "computer-science"
+      ],
+      "idioma": "alemán",
+      "duracion_anios": null,
+      "url": "https://ethz.ch/en/studies/registration-application/bachelor/other-certificates/application.html"
+    }
+  ],
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 8,
+      "fuente": "dato provisto por el usuario",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 10,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/ch",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "Todos los bachelors de ETH se dan en alemán y ETH no ofrece cursos de idioma."
+    },
+    {
+      "nivel": "riesgo",
+      "texto": "Con un diploma guatemalteco probablemente se exija un examen de admisión; falta confirmarlo en la lista de países."
+    }
+  ],
+  "fotos": [
+    {
+      "archivo": "assets/campus/eth/01.jpg",
+      "alt": "Campus de ETH Zurich",
+      "autor": "roland zh",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:ETH_Z%C3%BCrich_-_Hauptgeb%C3%A4ude_-_Polyterrasse_2012-09-27_14-40-49_ShiftN.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/ETH_Z%C3%BCrich_-_Hauptgeb%C3%A4ude_-_Polyterrasse_2012-09-27_14-40-49_ShiftN.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/eth/02.jpg",
+      "alt": "Campus de ETH Zurich",
+      "autor": "Leonhard Lenz",
+      "licencia": "CC0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Hauptgeb%C3%A4ude_der_ETH_Z%C3%BCrich_and_Polyterrasse_2022-09-24_01.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Hauptgeb%C3%A4ude_der_ETH_Z%C3%BCrich_and_Polyterrasse_2022-09-24_01.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "no aparece en las páginas consultadas",
+    "costo_anual.vida": "no obtenido",
+    "aceptacion.tasa_pct": "no publicada",
+    "becas": "no consultado"
+  },
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "CHF",
+    "anio_academico": "2027",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "prueba-propia",
+    "nota": "Solicitudes del 1-dic al 31-mar (23:59 CET); el nivel de alemán debe acreditarse antes del cierre; el país de origen define si se exige examen de admisión (lista no verificada para Guatemala). Idioma: Alemán (certificado)."
+  },
+  "fotos_busqueda": "ETH Zurich campus"
+}

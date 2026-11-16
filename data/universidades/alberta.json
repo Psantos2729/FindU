@@ -1,0 +1,133 @@
+{
+  "id": "alberta",
+  "nombre": "University of Alberta",
+  "ciudad": "Edmonton",
+  "pais": "Canadá",
+  "sitio_web": "https://www.ualberta.ca",
+  "carreras": [
+    {
+      "nombre": "BSc Computing Science",
+      "areas": [
+        "computer-science",
+        "inteligencia-artificial",
+        "software-engineering",
+        "data-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://www.ualberta.ca"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": 52699,
+      "fuente": "https://preview.ualberta.ca/en/registrar/media-library/presentations/2026-27_tuitionstudentconsultationpresentation.pdf",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": 18500,
+      "fuente": "https://preview.ualberta.ca/en/admissions/media-library/uai-assets/docs/viewbook-2027-28/web-spreads/ua_handbook_international_2027-28_web_spreads.pdf",
+      "verificado_en": "2026-11-14"
+    },
+    "moneda": "CAD",
+    "anio_academico": "2027-28",
+    "nota": "Matrícula: tarifa anual para internacionales que empiezan en otoño de 2027, fija durante todo el programa. Vida: residencia con comidas (14,800) más libros y cuotas (3,700), cifras 2026-27."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 58,
+      "fuente": "https://gostudyin.com/study-in-canada/study-guides/best-universities-canada/",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 96,
+      "fuente": "https://academica.ca/top-ten/qs-world-university-rankings-2027-released/",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 103,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/ca",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": "TOEFL iBT",
+      "minimo": 4.5,
+      "escala": "1-6",
+      "fuente": "https://preview.ualberta.ca/en/admissions/media-library/uai-assets/docs/viewbook-2027-28/web-spreads/ua_handbook_international_2027-28_web_spreads.pdf",
+      "verificado_en": "2026-11-14"
+    },
+    "gpa_referencia": null,
+    "tipo_admision": null,
+    "nota": "Inglés: TOEFL iBT 4.5 (escala nueva, sin sección menor a 4.5), IELTS 6.5 o Duolingo 120."
+  },
+  "becas": [
+    {
+      "nombre": "International Admission Scholarship",
+      "cobertura": "Hasta CAD 10,000 por notas sobresalientes de secundaria.",
+      "convocatoria": "Automática al solicitar admisión.",
+      "via_indesgua": false,
+      "url": "https://preview.ualberta.ca/en/admissions/media-library/uai-assets/docs/viewbook-2027-28/web-spreads/ua_handbook_international_2027-28_web_spreads.pdf",
+      "verificado_en": "2026-11-14"
+    },
+    {
+      "nombre": "International Leader Scholarship",
+      "cobertura": "Hasta CAD 15,000 para líderes con notas superiores.",
+      "convocatoria": "Requiere solicitud; cierra el 10 de enero de 2027.",
+      "via_indesgua": false,
+      "url": "https://preview.ualberta.ca/en/admissions/media-library/uai-assets/docs/viewbook-2027-28/web-spreads/ua_handbook_international_2027-28_web_spreads.pdf",
+      "verificado_en": "2026-11-14"
+    },
+    {
+      "nombre": "President's International Distinction Scholarship",
+      "cobertura": "CAD 120,000 repartidos en cuatro años.",
+      "convocatoria": "Requiere solicitud; cierra el 10 de enero de 2027.",
+      "via_indesgua": false,
+      "url": "https://preview.ualberta.ca/en/admissions/media-library/uai-assets/docs/viewbook-2027-28/web-spreads/ua_handbook_international_2027-28_web_spreads.pdf",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "fotos_busqueda": "University of Alberta campus Edmonton",
+  "fotos": [
+    {
+      "archivo": "assets/campus/alberta/01.jpg",
+      "alt": "Campus de University of Alberta",
+      "autor": "Chris Woodrich",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:University_of_Alberta%2C_North_Campus%2C_sign%2C_Edmonton%2C_Alberta%2C_2026-09-25.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Alberta%2C_North_Campus%2C_sign%2C_Edmonton%2C_Alberta%2C_2026-09-25.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/alberta/02.jpg",
+      "alt": "Campus de University of Alberta",
+      "autor": "Chris Woodrich",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Unidentified_sculpture%2C_University_of_Alberta_Campus%2C_Edmonton%2C_Alberta%2C_2026-09-26.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Unidentified_sculpture%2C_University_of_Alberta_Campus%2C_Edmonton%2C_Alberta%2C_2026-09-26.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {},
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "La matrícula de Computing Science sube 26 % para quienes empiezan en otoño de 2027 (ya reflejado en el costo)."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "base": "USD",
+  "por_usd": {
+    "EUR": 0.9048,
+    "CAD": 1.4258,
+    "AUD": 1.4738,
+    "GBP": 0.7561,
+    "HKD": 7.846,
+    "CNY": 6.6719,
+    "SGD": 1.2881,
+    "CHF": 0.8384,
+    "DKK": 6.764,
+    "SEK": 10.0502,
+    "KRW": 1337.13,
+    "NZD": 1.8076,
+    "JPY": 160.0
+  },
+  "fuente": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
+  "fecha_tasas": "2026-11-13",
+  "verificado_en": "2026-11-14",
+  "nota": "Tipos de referencia del BCE por euro del 13 de noviembre de 2026, convertidos a unidades por dólar."
+}

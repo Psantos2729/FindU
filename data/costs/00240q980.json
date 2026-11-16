@@ -1,0 +1,39 @@
+{
+ "ror_id": "00240q980",
+ "costo_anual": {
+  "matricula": {
+   "valor": null,
+   "fuente": "https://www.unipd.it/en/tuition-fees",
+   "verificado_en": "2026-11-16"
+  },
+  "matricula_rango": {
+   "min": 930,
+   "max": 2990,
+   "nota": "Tasa fija todo incluido para estudiantes con ciudadanía fuera de la UE y no residentes en Italia, 2026/27: grupo A (Humanidades) 2790 EUR (A1) y 930 EUR (A2, países de bajo IDH); grupo B (Científico + Formación Primaria) 2990 EUR (B1) y 996,66 EUR (B2).",
+   "min_usd": 1028,
+   "max_usd": 3305
+  },
+  "moneda": "EUR",
+  "anio_academico": "2026-27",
+  "nota": "No hay valor único: la cifra depende del grupo de titulación y de si el país de origen es de bajo IDH.",
+  "aproximado": false,
+  "tasa_usd": {
+   "por_usd": 0.9048,
+   "fecha": "2026-11-13",
+   "fuente": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+  }
+ },
+ "becas": [
+  {
+   "nombre": "Exenciones y reducciones de tasas (esoneri / fee waivers)",
+   "cobertura": "Exenciones totales o parciales de la contribución según requisitos; se solicitan con 'Request for concession'. El texto no detalla montos ni elegibilidad para estudiantes internacionales.",
+   "url": "https://www.unipd.it/en/tuition-fees"
+  },
+  {
+   "nombre": "Beca regional (regional scholarship)",
+   "cobertura": "Cuota de 16 EUR para personas consideradas elegibles en el ranking de becas regionales del año anterior. El texto no aclara el resto de la condición.",
+   "url": "https://www.unipd.it/en/tuition-fees"
+  }
+ ],
+ "sin_dato": {}
+}

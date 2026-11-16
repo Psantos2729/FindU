@@ -1,0 +1,29 @@
+{
+ "ror_id": "02bfwt286",
+ "costo_anual": {
+  "matricula": {
+   "valor": 58940,
+   "fuente": "https://unienrol.com/study-australia/monash-university/bachelor-of-computer-science-bdv8opvxaz4pxts79buhxi2p",
+   "verificado_en": "2026-11-16",
+   "usd": 39992
+  },
+  "matricula_rango": null,
+  "moneda": "AUD",
+  "anio_academico": null,
+  "nota": "Portal no oficial (unienrol.com), no es el sitio de Monash. Cifra 'Estimated Fee / Year' de Bachelor of Computer Science (Clayton, 3 años). La fuente indica que las tasas se revisan anualmente y pueden cambiar. No indica año académico; verificar en el sitio oficial de Monash.",
+  "aproximado": true,
+  "tasa_usd": {
+   "por_usd": 1.4738,
+   "fecha": "2026-11-13",
+   "fuente": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+  }
+ },
+ "becas": [
+  {
+   "nombre": "Undergraduate Monash International Merit Scholarship (Fee Waiver)",
+   "cobertura": "Hasta AUD 15.000 por año (48 créditos), pagados anualmente hasta completar los créditos del título. Para estudiantes internacionales nuevos con oferta completa sin condiciones; no aplica a estudiantes actuales de Monash. El texto también menciona AUD 10.000 por año, pero sus condiciones aparecen truncadas.",
+   "url": "https://unienrol.com/study-australia/monash-university/bachelor-of-computer-science-bdv8opvxaz4pxts79buhxi2p"
+  }
+ ],
+ "sin_dato": {}
+}

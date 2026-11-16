@@ -1,0 +1,124 @@
+{
+  "id": "sjtu",
+  "nombre": "Shanghai Jiao Tong University",
+  "ciudad": "Shanghái",
+  "pais": "China",
+  "sitio_web": "https://en.sjtu.edu.cn",
+  "carreras": [
+    {
+      "nombre": "Undergraduate Engineering Cluster Program in English – Computer Science and Technology",
+      "areas": [
+        "ciberseguridad",
+        "computer-science"
+      ],
+      "idioma": "inglés (con cursos obligatorios de chino)",
+      "duracion_anios": null,
+      "url": "https://en.sjtu.edu.cn/study-sjtu/prospective/degree-programs/278"
+    }
+  ],
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 36,
+      "fuente": "dato provisto por el usuario",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 30,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/cn",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "becas": [
+    {
+      "nombre": "Beca SJTU (también las del Gobierno de China y de Shanghái)",
+      "cobertura": "Desde 25% de descuento en matrícula hasta matrícula completa más asignación de vida",
+      "convocatoria": "Acción temprana 1-nov-2026 (ya pasó); regular 31-mar-2027",
+      "via_indesgua": false,
+      "url": "https://en.sjtu.edu.cn/study-sjtu/prospective/degree-programs/278",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "Matrícula de CNY 150,000 al año, mucho más que otros programas en China."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Se exige HSK 4 para graduarse y la especialidad se elige tras 1.5 años."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "La fecha regular cierra el 31-mar-2027."
+    }
+  ],
+  "fotos": [
+    {
+      "archivo": "assets/campus/sjtu/01.jpg",
+      "alt": "Campus de Shanghai Jiao Tong University",
+      "autor": "SSYoung",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Jing_Jing_Tang%2C_Shanghai_Jiao_Tong_University.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Jing_Jing_Tang%2C_Shanghai_Jiao_Tong_University.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/sjtu/02.jpg",
+      "alt": "Campus de Shanghai Jiao Tong University",
+      "autor": "Ericmetro",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Yinshuisiyuan_SJTU_Minhang.JPG",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Yinshuisiyuan_SJTU_Minhang.JPG?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual.vida": "no publicado",
+    "aceptacion.tasa_pct": "no publicada"
+  },
+  "costo_anual": {
+    "matricula": {
+      "valor": 150000,
+      "fuente": "https://en.sjtu.edu.cn/study-sjtu/prospective/degree-programs/278",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "CNY",
+    "anio_academico": "2027",
+    "nota": "Seguro aparte: CNY 800 al año."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": null,
+    "nota": "Primer año y medio en el Global College y luego CS u otra ingeniería; se necesita HSK 4 para graduarse. Idioma: TOEFL iBT 4.5 (escala nueva) o 90 (escala anterior); IELTS 6.0; Duolingo 120."
+  },
+  "fotos_busqueda": "Shanghai Jiao Tong University campus"
+}

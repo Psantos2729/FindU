@@ -1,0 +1,134 @@
+{
+  "id": "ntu",
+  "nombre": "Nanyang Technological University",
+  "ciudad": "Singapur",
+  "pais": "Singapur",
+  "sitio_web": "https://www.ntu.edu.sg",
+  "carreras": [
+    {
+      "nombre": "Computer Science",
+      "areas": [
+        "ciberseguridad",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": null,
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate"
+    },
+    {
+      "nombre": "Double Degree in Computer Science and Business (specialisation in Business Analytics)",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://www.ntu.edu.sg/education/undergraduate-programme/double-degree-in-computer-science-and-business"
+    }
+  ],
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 12,
+      "fuente": "dato provisto por el usuario",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 9,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/sg",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "becas": [
+    {
+      "nombre": "Nanyang Scholarship",
+      "cobertura": "Matrícula subsidiada completa, S$6,500/año para vida, hasta S$2,000/año de residencia, hasta S$8,000 para viajes y S$2,000 para computadora; abierta a todas las nacionalidades",
+      "convocatoria": "Se solicita admisión y luego el formulario de beca con ensayo de 250 palabras y evaluación docente, en el mismo periodo de admisión",
+      "via_indesgua": false,
+      "url": "https://www.ntu.edu.sg/admissions/undergraduate/scholarships-and-awards/scholarship-opportunities/detail/nanyang-scholarship",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "Con el Bachillerato guatemalteco piden 3 AP con nota 4-5 (o 3 A-levels)."
+    },
+    {
+      "nivel": "riesgo",
+      "texto": "La matrícula de S$21,800 es con Tuition Grant (compromiso de trabajar en Singapur); sin él son S$45,600."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "La página no da tarifa subsidiada para internacionales; SGD 36,350 al año sin subsidio."
+    }
+  ],
+  "fotos": [
+    {
+      "archivo": "assets/campus/ntu/01.jpg",
+      "alt": "Campus de Nanyang Technological University",
+      "autor": "Supanut Arunoprayote",
+      "licencia": "CC BY 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:The_Hive%2C_NTU_%28I%29.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Hive%2C_NTU_%28I%29.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/ntu/02.jpg",
+      "alt": "Campus de Nanyang Technological University",
+      "autor": "Lapullin",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:The_hive_building_at_Nanyang_Technological_University_in_the_afternoon.jpeg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/The_hive_building_at_Nanyang_Technological_University_in_the_afternoon.jpeg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual.vida": "No se consultó.",
+    "aceptacion.tasa_pct": "No publicada."
+  },
+  "costo_anual": {
+    "matricula": {
+      "valor": 36350,
+      "fuente": "https://www.ntu.edu.sg/admissions/undergraduate/fees-and-funding/tuition-fees/accepted-programme-offer-in-2026",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "SGD",
+    "anio_academico": "ingreso 2026 (sin subsidio, GST incluido; tarifa fija toda la carrera)",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://www.ntu.edu.sg/admissions/undergraduate/admission-guide/international-qualifications/other-international-qualifications",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": "Para otras calificaciones nacionales piden 3 AP con nota 4-5 (AP Calculus BC para ingeniería y ciencias) o 3 A-levels. El SAT 1250+ sirve solo como prueba de inglés. Idioma: TOEFL iBT 90 (Verbal 25); IELTS 6 (6 en Writing y Speaking); solo si el colegio no fue en inglés."
+  },
+  "fotos_busqueda": "Nanyang Technological University The Hive"
+}

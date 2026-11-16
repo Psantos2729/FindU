@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Universidades</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231b2350'/%3E%3Ctext x='16' y='23' font-size='20' font-family='sans-serif' font-weight='700' text-anchor='middle' fill='white'%3EU%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/tokens.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/forms.css">
+  <link rel="stylesheet" href="css/card.css">
+  <link rel="stylesheet" href="css/views.css">
+</head>
+<body>
+  <header class="cabecera">
+    <a class="cabecera__marca" href="#mazo">Universidades</a>
+    <nav class="cabecera__nav" aria-label="Secciones">
+      <a href="#mazo" data-ruta="mazo">Mazo</a>
+      <a href="#resultados" data-ruta="resultados">Lista final</a>
+      <a href="#perfil" data-ruta="perfil">Perfil</a>
+    </nav>
+  </header>
+  <main id="vista" class="vista" tabindex="-1"></main>
+  <div id="aviso" class="aviso" role="status" aria-live="polite"></div>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

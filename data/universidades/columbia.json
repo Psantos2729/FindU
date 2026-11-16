@@ -1,0 +1,111 @@
+{
+  "id": "columbia",
+  "nombre": "Columbia University",
+  "ciudad": "Nueva York",
+  "pais": "Estados Unidos",
+  "sitio_web": "https://www.columbia.edu",
+  "carreras": [
+    {
+      "nombre": "Computer Science (pregrado)",
+      "areas": [
+        "computer-science",
+        "ciberseguridad"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": null
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "USD",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 3.9,
+      "fuente": "https://en.wikipedia.org/wiki/Columbia_University",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 43,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 22,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/us",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": null
+  },
+  "becas": [],
+  "alertas": [],
+  "fotos_busqueda": "Columbia University Low Library",
+  "fotos": [
+    {
+      "archivo": "assets/campus/columbia/01.jpg",
+      "alt": "Campus de Columbia University",
+      "autor": "Ad Meskens",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Low_Memorial_Library_Columbia_University_College_Walk_Court_Yard_05.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Low_Memorial_Library_Columbia_University_College_Walk_Court_Yard_05.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/columbia/02.jpg",
+      "alt": "Campus de Columbia University",
+      "autor": "Magpieturtle",
+      "licencia": "CC BY 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Low_Memorial_Library_at_Columbia_University_12-17-2025.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Low_Memorial_Library_at_Columbia_University_12-17-2025.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/columbia/03.jpg",
+      "alt": "Campus de Columbia University",
+      "autor": "Ashley98lee",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Columbia_University_Low_Memorial_Library_1.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Columbia_University_Low_Memorial_Library_1.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Pendiente de investigar: aún no se buscó la matrícula para internacionales",
+    "becas": "Pendiente de investigar"
+  }
+}

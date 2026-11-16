@@ -1,0 +1,113 @@
+{
+  "id": "edinburgh",
+  "nombre": "University of Edinburgh",
+  "ciudad": "Edimburgo",
+  "pais": "Reino Unido",
+  "sitio_web": "https://www.ed.ac.uk",
+  "carreras": [
+    {
+      "nombre": "BSc Computer Science and Management Science",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://www.ed.ac.uk/ug/GN42"
+    }
+  ],
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 35,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings?page=1",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 22,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/gb",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Confirmar si aceptan el Bachillerato guatemalteco directamente o si piden IB, AP o un año de fundación."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Las becas listadas para internacionales son muy específicas (p. ej., medallistas de olimpiadas)."
+    }
+  ],
+  "fotos": [
+    {
+      "archivo": "assets/campus/edinburgh/01.jpg",
+      "alt": "Campus de University of Edinburgh",
+      "autor": "Chrysi Chrysochou",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Old_College%2C_Edinburgh_University.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Old_College%2C_Edinburgh_University.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/edinburgh/02.jpg",
+      "alt": "Campus de University of Edinburgh",
+      "autor": "Stinglehammer",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Old_College%2C_University_of_Edinburgh_04.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Old_College%2C_University_of_Edinburgh_04.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Las páginas de tarifas 2027-28 no mostraron la cifra (2 intentos).",
+    "costo_anual.vida": "Sin cifra en la página oficial.",
+    "aceptacion.tasa_pct": "No publicada.",
+    "becas": "Solo aparecen Global Talent Fund BIG (medallistas de olimpiadas internacionales) y Rosedale OSSD (estudiantes de un colegio concreto); ninguna general para Guatemala."
+  },
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "GBP",
+    "anio_academico": "2027-28",
+    "nota": "La página de finanzas internacionales no da cifra de costo de vida."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://www.ed.ac.uk/ug/GN42",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "numerica",
+    "nota": "Admisión por UCAS según notas; aceptan 'una amplia gama de calificaciones internacionales' sin detalle para Guatemala. Matrícula internacional fija durante toda la carrera. Idioma: TOEFL iBT 92 (mín. 20 por sección); IELTS 6.5 (5.5 por sección)."
+  },
+  "fotos_busqueda": "University of Edinburgh Old College"
+}

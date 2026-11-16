@@ -1,0 +1,83 @@
+/* Vistas: mazo y lista final. */
+.mazo { display: grid; gap: var(--e-4); max-width: 30rem; margin: 0 auto; }
+.mazo__progreso { display: grid; gap: var(--e-1); }
+.mazo__conteo { font-size: var(--t-s); color: var(--tinta-suave); }
+.mazo__barra { height: 8px; border-radius: 4px; background: var(--sobre-oscuro); overflow: hidden; }
+.mazo__barra span { display: block; height: 100%; background: var(--tinta); transition: width var(--mov-medio); }
+.mazo__escena { min-height: 20rem; }
+/* En móvil los votos quedan siempre a la vista, aunque la carta sea larga. */
+.mazo__controles {
+  position: sticky; bottom: 0; z-index: 5;
+  display: grid; grid-template-columns: 1fr auto; gap: var(--e-2); align-items: stretch;
+  margin: 0 calc(-1 * var(--e-4));
+  padding: var(--e-3) var(--e-4);
+  background: var(--sobre);
+  border-top: 1px solid var(--linea);
+}
+.mazo__controles .boton { padding-inline: var(--e-3); }
+.mazo__acciones { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--e-2); width: 100%; }
+.mazo__pista { text-align: center; }
+.mazo__fin { display: grid; gap: var(--e-4); justify-items: start; padding: var(--e-6); background: var(--papel); border-radius: var(--radio-carta); }
+
+.voto {
+  display: grid; justify-items: center; gap: 2px;
+  min-height: 64px;
+  padding: var(--e-2);
+  border: 2px solid currentColor; border-radius: var(--radio-control);
+  background: var(--papel);
+  font: inherit; font-weight: 700; font-size: var(--t-s);
+  cursor: pointer;
+  transition: transform var(--mov-rapido), background var(--mov-rapido);
+}
+.voto__icono { font-size: var(--t-xl); line-height: 1; }
+.voto:active { transform: scale(0.96); }
+.voto--gusta { color: var(--quetzal); }
+.voto--neutral { color: var(--ambar); }
+.voto--no { color: var(--carmesi); }
+.voto--gusta:hover { background: var(--quetzal-fondo); }
+.voto--neutral:hover { background: var(--ambar-fondo); }
+.voto--no:hover { background: var(--carmesi-fondo); }
+
+/* Lista final */
+.resultados__faltan { margin-top: var(--e-2); }
+.filtros { display: flex; flex-wrap: wrap; align-items: end; gap: var(--e-4); margin: var(--e-5) 0; }
+.filtro { display: grid; gap: var(--e-1); font-size: var(--t-s); font-weight: 700; }
+.filtro select {
+  min-height: 44px; padding: var(--e-2) var(--e-3);
+  border: 2px solid var(--linea); border-radius: var(--radio-control);
+  background: var(--papel); color: var(--tinta); font: inherit;
+}
+.filtro--casilla { display: flex; align-items: center; gap: var(--e-2); min-height: 44px; }
+.filtro--casilla input { width: 20px; height: 20px; accent-color: var(--tinta); }
+
+.resultados__grupos { display: grid; gap: var(--e-6); }
+.grupo h2 { padding-bottom: var(--e-2); border-bottom: 4px solid currentColor; }
+.grupo--gusta h2 { color: var(--quetzal); }
+.grupo--neutral h2 { color: var(--ambar); }
+.grupo--no h2 { color: var(--carmesi); }
+.grupo__lista { list-style: none; margin: var(--e-3) 0 0; padding: 0; display: grid; gap: var(--e-2); }
+.grupo > .nota { margin-top: var(--e-3); }
+.resultado {
+  display: grid; gap: var(--e-1) var(--e-4);
+  padding: var(--e-4);
+  background: var(--papel);
+  border-radius: var(--radio-control);
+}
+.resultado h3 { font-size: var(--t-l); }
+.resultado__admision strong { font-family: var(--fuente-titulo); }
+.resultados__exportar { margin: var(--e-6) 0 var(--e-3); }
+
+@media (min-width: 900px) {
+  .mazo { max-width: 62rem; }
+  .mazo__controles {
+    position: static; margin: 0; padding: 0; border-top: 0;
+    grid-template-columns: minmax(0, 30rem) auto; justify-content: start; align-items: center; gap: var(--e-3);
+  }
+  .mazo__pista { text-align: left; }
+  .resultado { grid-template-columns: 2fr 1fr 1.6fr 1.2fr; align-items: center; }
+}
+
+/* Selector de mazo */
+.mazo__cabecera { display: grid; gap: var(--e-2); }
+.mazo__cabecera select { width: 100%; }
+.resultado__riesgo { color: var(--carmesi); font-size: var(--t-s); font-weight: 700; }

@@ -1,0 +1,136 @@
+{
+  "id": "toronto",
+  "nombre": "University of Toronto",
+  "ciudad": "Toronto",
+  "pais": "Canadá",
+  "sitio_web": "https://www.utoronto.ca",
+  "carreras": [
+    {
+      "nombre": "Computer Science (HBSc)",
+      "areas": [
+        "computer-science",
+        "inteligencia-artificial",
+        "software-engineering",
+        "data-science",
+        "ciberseguridad"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://future.utoronto.ca"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": 66110,
+      "fuente": "https://www.registrar.utoronto.ca/us-student-aid/",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": 36174,
+      "fuente": "https://www.registrar.utoronto.ca/us-student-aid/",
+      "verificado_en": "2026-11-14"
+    },
+    "moneda": "CAD",
+    "anio_academico": "2026-27",
+    "nota": "Estimación oficial para primer año en Arts & Science. Desde segundo año, Computer Science tiene una tarifa propia más alta."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": "2026-11-14"
+    },
+    "ambito": null
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 32,
+      "fuente": "https://academica.ca/top-ten/qs-world-university-rankings-2027-released/",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 13,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/ca",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": "TOEFL iBT",
+      "minimo": 4.5,
+      "escala": "1-6",
+      "minimo_escala_anterior": 89,
+      "fuente": "https://future.utoronto.ca/apply/english-language-requirements/",
+      "verificado_en": "2026-11-14"
+    },
+    "gpa_referencia": null,
+    "tipo_admision": null,
+    "nota": "Inglés: TOEFL iBT 4.5 en la escala nueva (89 en la anterior) o IELTS 6.5 sin banda menor a 6.0."
+  },
+  "becas": [
+    {
+      "nombre": "Lester B. Pearson International Scholarship",
+      "cobertura": "Matrícula, libros, cuotas y apoyo de alojamiento por cuatro años. Unos 37 becarios al año.",
+      "convocatoria": "Tu colegio nomina a un solo estudiante. Para entrar en septiembre de 2027 la nominación cerró el 9 de octubre de 2026 y la solicitud el 6 de noviembre de 2026.",
+      "via_indesgua": false,
+      "url": "https://future.utoronto.ca/pearson/",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "fotos_busqueda": "University of Toronto St. George campus",
+  "fotos": [
+    {
+      "archivo": "assets/campus/toronto/01.jpg",
+      "alt": "Campus de University of Toronto",
+      "autor": "GoginkLobabi",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Toronto_University_College_1.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Toronto_University_College_1.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/toronto/02.jpg",
+      "alt": "Campus de University of Toronto",
+      "autor": "Ken Eckert",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:University_College_Lawn%2C_University_of_Toronto%2C_Canada.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/University_College_Lawn%2C_University_of_Toronto%2C_Canada.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/toronto/03.jpg",
+      "alt": "Campus de University of Toronto",
+      "autor": "The City of Toronto",
+      "licencia": "CC BY 2.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:University_College_in_Toronto.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/University_College_in_Toronto.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/toronto/04.jpg",
+      "alt": "Campus de University of Toronto",
+      "autor": "Ken Lund",
+      "licencia": "CC BY-SA 2.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:University_College%2C_University_of_Toronto%2C_Toronto%2C_Ontario_%2829375658604%29.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/University_College%2C_University_of_Toronto%2C_Toronto%2C_Ontario_%2829375658604%29.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "aceptacion.tasa_pct": "La universidad no publica una tasa oficial"
+  },
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "La beca Lester B. Pearson para entrar en septiembre de 2027 ya cerró (nominación el 9 de octubre de 2026)."
+    }
+  ]
+}

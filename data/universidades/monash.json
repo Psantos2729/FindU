@@ -1,0 +1,149 @@
+{
+  "id": "monash",
+  "nombre": "Monash University",
+  "ciudad": "Melbourne",
+  "pais": "Australia",
+  "sitio_web": "https://www.monash.edu",
+  "carreras": [
+    {
+      "nombre": "Bachelor of Computer Science",
+      "areas": [
+        "computer-science",
+        "inteligencia-artificial",
+        "software-engineering",
+        "data-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 3,
+      "url": "https://www.monash.edu/study/courses/find-a-course/computer-science-c2001"
+    },
+    {
+      "nombre": "Bachelor of Commerce and Bachelor of Computer Science (B2008)",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://www.monash.edu/study/courses/find-a-course/commerce-and-computer-science-b2008"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": 58940,
+      "fuente": "https://unienrol.com/study-australia/monash-university/bachelor-of-computer-science-bdv8opvxaz4pxts79buhxi2p",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": "2026-11-14"
+    },
+    "moneda": "AUD",
+    "anio_academico": "2027",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 31,
+      "fuente": "https://gostudyin.com/news/qs-world-university-rankings-2027-released/",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 51,
+      "fuente": "https://www.monash.edu.my/study/C2001",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "numerica",
+    "nota": "La página remite al buscador de elegibilidad de admisión para calificaciones internacionales."
+  },
+  "becas": [
+    {
+      "nombre": "Monash International Merit Scholarship",
+      "cobertura": "A$10,000 por cada 48 créditos (hasta A$50,000) durante toda la carrera; 31 becas",
+      "convocatoria": "Requiere oferta completa de Monash y estudio a tiempo completo en Australia; la fecha de cierre no está publicada",
+      "via_indesgua": false,
+      "url": "https://www.monash.edu/latin-america/study/scholarships-and-finance-options",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "fotos_busqueda": "Monash University Clayton campus",
+  "fotos": [
+    {
+      "archivo": "assets/campus/monash/01.jpg",
+      "alt": "Campus de Monash University",
+      "autor": "Monash Information Technology",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Woodside_Building_for_Technology_and_Design%2C_Monash_University%2C_Clayton_campus.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Woodside_Building_for_Technology_and_Design%2C_Monash_University%2C_Clayton_campus.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/monash/02.jpg",
+      "alt": "Campus de Monash University",
+      "autor": "Michael_Rowe",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Monash_University%2C_Clayton_campus_-_5.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Monash_University%2C_Clayton_campus_-_5.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/monash/03.jpg",
+      "alt": "Campus de Monash University",
+      "autor": "Crisco 1492",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Statue_of_John_Monash%2C_Monash_University_%28Clayton_Campus%29%2C_Melbourne_2017-10-30_02.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Statue_of_John_Monash%2C_Monash_University_%28Clayton_Campus%29%2C_Melbourne_2017-10-30_02.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/monash/04.jpg",
+      "alt": "Campus de Monash University",
+      "autor": "Donaldytong",
+      "licencia": "Public domain",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Clayton_-_Monash_University.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Clayton_-_Monash_University.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "aceptacion.tasa_pct": "No publicada.",
+    "costo_anual.vida": "Sin dato."
+  },
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "La beca Merit tiene solo 31 lugares y cubre una parte de la matrícula."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "La matrícula mostrada viene de un portal externo; la página oficial solo publica la tarifa nacional."
+    }
+  ]
+}

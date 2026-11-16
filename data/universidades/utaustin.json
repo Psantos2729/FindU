@@ -1,0 +1,117 @@
+{
+  "id": "utaustin",
+  "nombre": "University of Texas at Austin",
+  "ciudad": "Austin",
+  "pais": "Estados Unidos",
+  "sitio_web": "https://www.utexas.edu",
+  "carreras": [
+    {
+      "nombre": "Texas Honors Computer Science and Business (Texas CSB)",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": "https://csb.utexas.edu/"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "USD",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 29.1,
+      "fuente": "https://en.wikipedia.org/wiki/University_of_Texas_at_Austin",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 72,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 39,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/us",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": true,
+      "minimo": null,
+      "p25": 1230,
+      "p75": 1480,
+      "fuente": "https://en.wikipedia.org/wiki/University_of_Texas_at_Austin",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": null
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "El SAT es obligatorio desde 2025. Texas CSB es un programa de honores con grupo pequeño; la tasa mostrada es de toda la universidad."
+    }
+  ],
+  "fotos_busqueda": "University of Texas at Austin Tower",
+  "fotos": [
+    {
+      "archivo": "assets/campus/utaustin/01.jpg",
+      "alt": "Campus de University of Texas at Austin",
+      "autor": "Larry D. Moore",
+      "licencia": "CC BY 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:University_of_texas_at_austin_main_building_2014.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_texas_at_austin_main_building_2014.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/utaustin/02.jpg",
+      "alt": "Campus de University of Texas at Austin",
+      "autor": "Michael Barera",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:University_of_Texas_at_Austin_August_2019_32_%28Littlefield_Fountain_and_Main_Building%29.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/University_of_Texas_at_Austin_August_2019_32_%28Littlefield_Fountain_and_Main_Building%29.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/utaustin/03.jpg",
+      "alt": "Campus de University of Texas at Austin",
+      "autor": "Daderot",
+      "licencia": "CC0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Main_Building_%28University_of_Texas_at_Austin%29_-_DSC08595.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Main_Building_%28University_of_Texas_at_Austin%29_-_DSC08595.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Pendiente de investigar: aún no se buscó la matrícula para internacionales",
+    "becas": "Pendiente de investigar"
+  }
+}

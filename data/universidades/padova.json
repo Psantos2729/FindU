@@ -1,0 +1,125 @@
+{
+  "id": "padova",
+  "nombre": "Università di Padova",
+  "ciudad": "Padua",
+  "pais": "Italia",
+  "sitio_web": "https://www.unipd.it/en/",
+  "carreras": [
+    {
+      "nombre": "Information Engineering (BSc)",
+      "areas": [
+        "computer-engineering",
+        "computer-science",
+        "software-engineering"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 3,
+      "url": "https://www.unipd.it/en/information-engineering"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": 2990,
+      "fuente": "https://www.unipd.it/en/tuition-fees",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": "2026-11-14"
+    },
+    "moneda": "EUR",
+    "anio_academico": "2026-27",
+    "nota": "Cuota fija para estudiantes no-UE en carreras científicas."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": "2026-11-14"
+    },
+    "ambito": null
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 204,
+      "fuente": "https://www.unipd.it/news/qs-world-university-rankings-2027-unipd-al-204deg-posto-al-mondo-su-8808-istituzioni",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": "201–250",
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/it",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://www.unipd.it/sites/unipd.it/files/2025/Information%20Engineering_non-EU%20students%20residing%20abroad.pdf",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "prueba-propia",
+    "nota": "Se entra por la prueba CEnT-S: puntaje ponderado de al menos 38 y 7 aciertos en Matemática. Inglés B2. Hay 100 cupos para no-UE residentes en el extranjero; la convocatoria 2026/27 fue del 7 de enero al 7 de marzo de 2026."
+  },
+  "becas": [
+    {
+      "nombre": "Padua International Excellence Scholarship",
+      "cobertura": "EUR 8,000 brutos al año más exención de matrícula, hasta por 3 años. Hasta 76 becas.",
+      "convocatoria": "Sin solicitud aparte: se asigna por mérito entre quienes aplican en la primera convocatoria. Las nuevas convocatorias se anuncian para noviembre de 2026.",
+      "via_indesgua": false,
+      "url": "https://www.unipd.it/en/padua-international-excellence-scholarship-programme",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "fotos_busqueda": "Università di Padova Palazzo Bo",
+  "fotos": [
+    {
+      "archivo": "assets/campus/padova/01.jpg",
+      "alt": "Campus de Università di Padova",
+      "autor": "sailko",
+      "licencia": "CC BY 2.5",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Universit%C3%A0_di_Padova%2C_palazzo_bo%2C_cortile_01.JPG",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Universit%C3%A0_di_Padova%2C_palazzo_bo%2C_cortile_01.JPG?width=1280"
+    },
+    {
+      "archivo": "assets/campus/padova/02.jpg",
+      "alt": "Campus de Università di Padova",
+      "autor": "Simonosa",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Padova_-_Palazzo_del_Bo_-_202209170018_5.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Padova_-_Palazzo_del_Bo_-_202209170018_5.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/padova/03.jpg",
+      "alt": "Campus de Università di Padova",
+      "autor": "Federica.tamburini.75",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Padova_-_Palazzo_del_Bo_-_il_Cortile_Antico_-_202209291229.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Padova_-_Palazzo_del_Bo_-_il_Cortile_Antico_-_202209291229.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "aceptacion.tasa_pct": "No se publica una tasa; hay 100 cupos para no-UE",
+    "costo_anual.vida": "La universidad no publica una estimación"
+  },
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "No se entra con SAT sino con la prueba CEnT-S, que hay que rendir antes de aplicar."
+    }
+  ]
+}

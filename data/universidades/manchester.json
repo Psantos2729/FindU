@@ -1,0 +1,116 @@
+{
+  "id": "manchester",
+  "nombre": "University of Manchester",
+  "ciudad": "Mánchester",
+  "pais": "Reino Unido",
+  "sitio_web": "https://www.manchester.ac.uk",
+  "carreras": [
+    {
+      "nombre": "BSc Information Technology Management for Business",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 3,
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/06246/bsc-information-technology-management-for-business/"
+    }
+  ],
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 40,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings?page=1",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 58,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/gb",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "La Global Futures Scholarship no incluye a Guatemala ni a Latinoamérica: de América solo Canadá y EE. UU."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "La matrícula puede subir hasta 7% por año después del primer año."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Confirmar si aceptan el Bachillerato guatemalteco directamente o si piden un año de fundación."
+    }
+  ],
+  "fotos": [
+    {
+      "archivo": "assets/campus/manchester/01.jpg",
+      "alt": "Campus de University of Manchester",
+      "autor": "Michael D Beckwith",
+      "licencia": "CC0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:The_University_Of_Manchester_Whitworth_Hall.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/The_University_Of_Manchester_Whitworth_Hall.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/manchester/02.jpg",
+      "alt": "Campus de University of Manchester",
+      "autor": "David Dixon",
+      "licencia": "CC BY-SA 2.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Universtity_Of_Manchester_Whitworth_Hall.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Universtity_Of_Manchester_Whitworth_Hall.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual.vida": "No se encontró una cifra oficial.",
+    "aceptacion.tasa_pct": "No publicada.",
+    "becas": "La Global Futures Scholarship excluye a Guatemala; no se encontró otra beca general."
+  },
+  "costo_anual": {
+    "matricula": {
+      "valor": 37000,
+      "fuente": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/06246/bsc-information-technology-management-for-business/",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "GBP",
+    "anio_academico": "2027-28",
+    "nota": "Sin cifra en las páginas consultadas."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/06246/bsc-information-technology-management-for-business/",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "numerica",
+    "nota": "Las calificaciones internacionales se evalúan contra los criterios estándar del curso; hay información por país en otra página. Existe una versión de 4 años con año en la industria (código 06247). Idioma: IELTS 6.5 (mín. 6 por sección)."
+  },
+  "fotos_busqueda": "University of Manchester Main Building"
+}

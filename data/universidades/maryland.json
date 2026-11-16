@@ -1,0 +1,113 @@
+{
+  "id": "maryland",
+  "nombre": "University of Maryland, College Park",
+  "ciudad": "College Park",
+  "pais": "Estados Unidos",
+  "sitio_web": "https://www.umd.edu",
+  "carreras": [
+    {
+      "nombre": "Computer Science (pregrado)",
+      "areas": [
+        "computer-science",
+        "ciberseguridad"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": null
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "USD",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 34.3,
+      "fuente": "https://en.wikipedia.org/wiki/University_of_Maryland,_College_Park",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 88,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/us",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": 1380,
+      "p75": 1520,
+      "fuente": "https://en.wikipedia.org/wiki/University_of_Maryland,_College_Park",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": "SAT opcional."
+  },
+  "becas": [],
+  "alertas": [],
+  "fotos_busqueda": "University of Maryland McKeldin",
+  "fotos": [
+    {
+      "archivo": "assets/campus/maryland/01.jpg",
+      "alt": "Campus de University of Maryland, College Park",
+      "autor": "Tomf688",
+      "licencia": "CC BY-SA 2.5",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:McKeldin_Library%2C_front_view%2C_mid-afternoon_light%2C_August_21%2C_2006.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/McKeldin_Library%2C_front_view%2C_mid-afternoon_light%2C_August_21%2C_2006.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/maryland/02.jpg",
+      "alt": "Campus de University of Maryland, College Park",
+      "autor": "Blacktupelo",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:McKeldin_Mall_sunset_University_Maryland_College_Park.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/McKeldin_Mall_sunset_University_Maryland_College_Park.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/maryland/03.jpg",
+      "alt": "Campus de University of Maryland, College Park",
+      "autor": "Meihe Chen",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:McKeldin_Library_Jan_2019.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/McKeldin_Library_Jan_2019.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Pendiente de investigar: aún no se buscó la matrícula para internacionales",
+    "rankings.mundial": "No se pudo verificar su posición en QS 2027",
+    "becas": "Pendiente de investigar"
+  }
+}

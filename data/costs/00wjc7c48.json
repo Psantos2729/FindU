@@ -1,0 +1,20 @@
+{
+ "ror_id": "00wjc7c48",
+ "costo_anual": {
+  "matricula": {
+   "valor": null,
+   "fuente": "https://www.unimi.it/en/education/bachelor/artificial-intelligence",
+   "verificado_en": "2026-11-16"
+  },
+  "matricula_rango": null,
+  "moneda": null,
+  "anio_academico": null,
+  "nota": null,
+  "aproximado": false
+ },
+ "becas": [],
+ "sin_dato": {
+  "costo_anual": "Sin dato: el texto de la fuente solo trata de selección, test de admisión y OFA, sin cifras de matrícula.",
+  "becas": "Sin dato: el texto no menciona becas."
+ }
+}

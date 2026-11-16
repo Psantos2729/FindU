@@ -1,0 +1,28 @@
+{
+  "id": "cs-business",
+  "nombre": "CS + Business (sin EE. UU.)",
+  "descripcion": "No existe un ranking de carreras que mezclen computación y negocios. Son 20 programas fuera de Estados Unidos, confirmados en la página oficial de cada universidad.",
+  "area_foco": "cs-business",
+  "universidades": [
+    "universidades/waterloo.json",
+    "universidades/ubc.json",
+    "universidades/toronto-utsc.json",
+    "universidades/kcl.json",
+    "universidades/edinburgh.json",
+    "universidades/manchester.json",
+    "universidades/warwick.json",
+    "universidades/stand.json",
+    "universidades/tcd.json",
+    "universidades/tum.json",
+    "universidades/bocconi.json",
+    "universidades/esade.json",
+    "universidades/ie.json",
+    "universidades/hkust.json",
+    "universidades/nus.json",
+    "universidades/ntu.json",
+    "universidades/monash.json",
+    "universidades/unsw.json",
+    "universidades/sydney.json",
+    "universidades/auckland.json"
+  ]
+}

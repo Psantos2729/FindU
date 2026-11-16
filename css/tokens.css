@@ -1,0 +1,64 @@
+/* Tokens de diseño: dirección visual "Expediente sellado". */
+@font-face {
+  font-family: "Bricolage Grotesque";
+  src: url("../assets/fonts/bricolage-grotesque.woff2") format("woff2");
+  font-weight: 200 800;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible";
+  src: url("../assets/fonts/atkinson-400.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible";
+  src: url("../assets/fonts/atkinson-700.woff2") format("woff2");
+  font-weight: 700;
+  font-display: swap;
+}
+
+:root {
+  /* Color */
+  --tinta: #1b2350;
+  --tinta-suave: #4a5380;
+  --sobre: #e7eaf4;
+  --sobre-oscuro: #d5daea;
+  --papel: #ffffff;
+  --linea: #c3c9de;
+  --quetzal: #0b7f63;
+  --ambar: #8f5b00;
+  --carmesi: #b8283f;
+  --quetzal-fondo: #e2f3ee;
+  --ambar-fondo: #f8eed9;
+  --carmesi-fondo: #fae6e9;
+
+  /* Tipografía (escala 1.25) */
+  --fuente-titulo: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --fuente-texto: "Atkinson Hyperlegible", "Segoe UI", system-ui, sans-serif;
+  --t-xs: 0.8rem;
+  --t-s: 0.9rem;
+  --t-m: 1rem;
+  --t-l: 1.25rem;
+  --t-xl: 1.563rem;
+  --t-2xl: 1.953rem;
+  --t-3xl: 2.441rem;
+
+  /* Espaciado (base 4 px) */
+  --e-1: 0.25rem;
+  --e-2: 0.5rem;
+  --e-3: 0.75rem;
+  --e-4: 1rem;
+  --e-5: 1.5rem;
+  --e-6: 2rem;
+  --e-7: 3rem;
+
+  /* Forma y movimiento */
+  --radio-carta: 18px;
+  --radio-control: 10px;
+  --sombra-carta: 0 1px 0 var(--linea), 0 18px 40px -18px rgba(27, 35, 80, 0.45);
+  --mov-rapido: 140ms;
+  --mov-medio: 260ms;
+  --curva-golpe: cubic-bezier(0.2, 1.4, 0.4, 1);
+  --curva-salida: cubic-bezier(0.4, 0, 0.9, 0.4);
+}

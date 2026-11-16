@@ -1,0 +1,135 @@
+{
+  "id": "hkust",
+  "nombre": "Hong Kong University of Science and Technology",
+  "ciudad": "Hong Kong",
+  "pais": "Hong Kong (China)",
+  "sitio_web": "https://hkust.edu.hk",
+  "carreras": [
+    {
+      "nombre": "Dual Degree Program in Technology & Management (T&M-DDP)",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": null,
+      "url": "https://techmgmt.hkust.edu.hk/"
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": 260000,
+      "fuente": "https://join.hkust.edu.hk/fees-and-scholarships",
+      "verificado_en": "2026-11-14"
+    },
+    "vida": {
+      "valor": 65000,
+      "fuente": "https://join.hkust.edu.hk/fees-and-scholarships",
+      "verificado_en": "2026-11-14"
+    },
+    "moneda": "HKD",
+    "anio_academico": "2027-28",
+    "nota": "Solo gastos personales. La residencia es aparte (HKD 21,000-51,000 por año, garantizada en primer año); fuera del campus cuesta HKD 4,500-18,000 por mes."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 33,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 33,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/hk",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://seng.hkust.edu.hk/academics/undergraduate/2027-admissions/international-qualifications",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": "La lista completa de calificaciones reconocidas está en join.hkust.edu.hk/admissions/international-qualifications. El programa lleva 152-187 créditos, con 1-2 cursos extra por semestre frente a un grado simple."
+  },
+  "becas": [
+    {
+      "nombre": "University Admissions Scholarship for Other Qualifications Holders",
+      "cobertura": "Monto no indicado",
+      "convocatoria": "Automática, sin solicitud",
+      "via_indesgua": false,
+      "url": "https://join.hkust.edu.hk/fees-and-scholarships",
+      "verificado_en": "2026-11-14"
+    },
+    {
+      "nombre": "Beyond Academic Admissions Scholarship (BAAS)",
+      "cobertura": "Monto no indicado",
+      "convocatoria": "Solicitud aparte; Priority Round hasta el 25 nov. 2026",
+      "via_indesgua": false,
+      "url": "https://join.hkust.edu.hk/fees-and-scholarships",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "La Priority Round (incluida la beca BAAS) cierra el 25 nov. 2026, en 11 días."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Carga académica mayor que un grado simple."
+    }
+  ],
+  "fotos_busqueda": "Hong Kong University of Science and Technology campus",
+  "fotos": [
+    {
+      "archivo": "assets/campus/hkust/01.jpg",
+      "alt": "Campus de Hong Kong University of Science and Technology",
+      "autor": "wanghongliu",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Hong_Kong_University_of_Science_and_Technology_-_panoramio.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Hong_Kong_University_of_Science_and_Technology_-_panoramio.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/hkust/02.jpg",
+      "alt": "Campus de Hong Kong University of Science and Technology",
+      "autor": "cogdogblog",
+      "licencia": "CC0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Hong_Kong_University_of_Science_and_Technology_%282878441947%29.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Hong_Kong_University_of_Science_and_Technology_%282878441947%29.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/hkust/03.jpg",
+      "alt": "Campus de Hong Kong University of Science and Technology",
+      "autor": "cogdogblog",
+      "licencia": "CC0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Hong_Kong_University_of_Science_%26_Technology_%282889127648%29.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Hong_Kong_University_of_Science_%26_Technology_%282889127648%29.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "aceptacion.tasa_pct": "No publicada."
+  }
+}

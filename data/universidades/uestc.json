@@ -1,0 +1,130 @@
+{
+  "id": "uestc",
+  "nombre": "University of Electronic Science and Technology of China",
+  "ciudad": "Chengdú",
+  "pais": "China",
+  "sitio_web": "https://en.uestc.edu.cn",
+  "carreras": [
+    {
+      "nombre": "Computer Science (pregrado)",
+      "areas": [
+        "ciberseguridad",
+        "computer-science"
+      ],
+      "idioma": "inglés (programas en inglés según fuente no oficial)",
+      "duracion_anios": null,
+      "url": null
+    }
+  ],
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 178,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/cn",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "becas": [
+    {
+      "nombre": "Beca del Gobierno de China (CSC)",
+      "cobertura": "Monto no indicado",
+      "convocatoria": "Listadas: 1-mar / 30-jun-2026 (fuente no oficial)",
+      "via_indesgua": false,
+      "url": "https://applyforchina.com/universities/university-of-electronic-science-and-technology-of-china/",
+      "verificado_en": "2026-11-14"
+    },
+    {
+      "nombre": "Beca UESTC / Beca del Gobierno de Chengdú",
+      "cobertura": "Monto no indicado",
+      "convocatoria": null,
+      "via_indesgua": false,
+      "url": "https://applyforchina.com/universities/university-of-electronic-science-and-technology-of-china/",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "No se confirmó en fuente oficial que el pregrado de Computer Science se dé en inglés."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "La matrícula y las becas vienen de un agregador no oficial."
+    }
+  ],
+  "fotos": [
+    {
+      "archivo": "assets/campus/uestc/01.jpg",
+      "alt": "Campus de University of Electronic Science and Technology of China",
+      "autor": "瑾华琬琬",
+      "licencia": "CC BY 2.5",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Gingko_Avenue%2C_University_of_Electronic_Science_and_Technology_of_China.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Gingko_Avenue%2C_University_of_Electronic_Science_and_Technology_of_China.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/uestc/02.jpg",
+      "alt": "Campus de University of Electronic Science and Technology of China",
+      "autor": "LimSoo-jung",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:UESTC_-_Building_1.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/UESTC_-_Building_1.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual.vida": "no obtenido",
+    "aceptacion.tasa_pct": "no publicada",
+    "rankings.mundial": "fuera de las páginas consultadas"
+  },
+  "costo_anual": {
+    "matricula": {
+      "valor": 20000,
+      "fuente": "https://applyforchina.com/universities/university-of-electronic-science-and-technology-of-china/",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "CNY",
+    "anio_academico": "2026",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": null,
+    "nota": "Idioma: IELTS o TOEFL."
+  },
+  "fotos_busqueda": "University of Electronic Science and Technology of China campus"
+}

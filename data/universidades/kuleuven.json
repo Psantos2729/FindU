@@ -1,0 +1,110 @@
+{
+  "id": "kuleuven",
+  "nombre": "KU Leuven",
+  "ciudad": "Lovaina",
+  "pais": "Bélgica",
+  "sitio_web": "https://www.kuleuven.be/english/",
+  "carreras": [
+    {
+      "nombre": "Computer Science (pregrado)",
+      "areas": [
+        "ciberseguridad",
+        "computer-science"
+      ],
+      "idioma": "sin confirmar",
+      "duracion_anios": null,
+      "url": null
+    }
+  ],
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 59,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings?page=2",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": null,
+      "fuente": null,
+      "verificado_en": null
+    }
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "riesgo",
+      "texto": "El bachelor de Informática (Informatica) probablemente se da solo en neerlandés; hay que confirmarlo antes de considerarla."
+    }
+  ],
+  "fotos": [
+    {
+      "archivo": "assets/campus/kuleuven/01.jpg",
+      "alt": "Campus de KU Leuven",
+      "autor": "Theedi",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Leuven_University_Library%2C_Leuven%2C_Belgium.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Leuven_University_Library%2C_Leuven%2C_Belgium.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/kuleuven/02.jpg",
+      "alt": "Campus de KU Leuven",
+      "autor": "Karmakolle",
+      "licencia": "CC0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Universiteitsbibliotheek_%28Leuven%29_%2810257%29.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Universiteitsbibliotheek_%28Leuven%29_%2810257%29.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "sitio bloqueado",
+    "costo_anual.vida": "sitio bloqueado",
+    "aceptacion.tasa_pct": "No se encontró una cifra, ni oficial ni aproximada",
+    "rankings.especialidad": "la página xuanxiao /be dio error",
+    "becas": "sitio bloqueado"
+  },
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "EUR",
+    "anio_academico": "2027",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": null,
+    "nota": null
+  },
+  "fotos_busqueda": "KU Leuven campus"
+}

@@ -1,0 +1,108 @@
+{
+  "id": "washington",
+  "nombre": "University of Washington",
+  "ciudad": "Seattle",
+  "pais": "Estados Unidos",
+  "sitio_web": "https://www.washington.edu",
+  "carreras": [
+    {
+      "nombre": "Computer Science (pregrado)",
+      "areas": [
+        "computer-science",
+        "ciberseguridad"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": null
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "USD",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 39.5,
+      "fuente": "https://en.wikipedia.org/wiki/University_of_Washington",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 92,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 22,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/us",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://en.wikipedia.org/wiki/University_of_Washington",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": null
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "No considera el SAT ni el ACT para admitir, aunque los envíes."
+    }
+  ],
+  "fotos_busqueda": "University of Washington campus",
+  "fotos": [
+    {
+      "archivo": "assets/campus/washington/01.jpg",
+      "alt": "Campus de University of Washington",
+      "autor": "Anemonemma",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Cherry_Blossoms_at_the_Quad_2026.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Cherry_Blossoms_at_the_Quad_2026.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/washington/02.jpg",
+      "alt": "Campus de University of Washington",
+      "autor": "Cody Logan",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:UW_Quad_in_the_spring_02.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/UW_Quad_in_the_spring_02.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Pendiente de investigar: aún no se buscó la matrícula para internacionales",
+    "becas": "Pendiente de investigar"
+  }
+}

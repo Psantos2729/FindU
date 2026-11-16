@@ -1,0 +1,117 @@
+{
+  "id": "uiuc",
+  "nombre": "University of Illinois Urbana-Champaign",
+  "ciudad": "Urbana-Champaign",
+  "pais": "Estados Unidos",
+  "sitio_web": "https://illinois.edu",
+  "carreras": [
+    {
+      "nombre": "Computer Science (pregrado)",
+      "areas": [
+        "computer-science",
+        "ciberseguridad"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": 4,
+      "url": null
+    }
+  ],
+  "costo_anual": {
+    "matricula": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "USD",
+    "anio_academico": "2026-27",
+    "nota": null
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": 36.6,
+      "fuente": "https://en.wikipedia.org/wiki/University_of_Illinois_Urbana-Champaign",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ambito": "toda la universidad"
+  },
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 74,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 32,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/us",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": null,
+      "minimo": null,
+      "p25": 1350,
+      "p75": 1510,
+      "fuente": "https://en.wikipedia.org/wiki/University_of_Illinois_Urbana-Champaign",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "holistica",
+    "nota": null
+  },
+  "becas": [],
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "La tasa es de toda la universidad; Computer Science suele ser bastante más competitivo que el promedio (no verificado con cifras)."
+    }
+  ],
+  "fotos_busqueda": "University of Illinois Urbana-Champaign campus",
+  "fotos": [
+    {
+      "archivo": "assets/campus/uiuc/01.jpg",
+      "alt": "Campus de University of Illinois Urbana-Champaign",
+      "autor": "Beyond My Ken",
+      "licencia": "CC BY-SA 4.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Foellinger_Auditorium_University_of_Illinois_at_Urbana-Champaign_from_mid-quad.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Foellinger_Auditorium_University_of_Illinois_at_Urbana-Champaign_from_mid-quad.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/uiuc/02.jpg",
+      "alt": "Campus de University of Illinois Urbana-Champaign",
+      "autor": "Daderot",
+      "licencia": "Public domain",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Main_Quad_-_UIUC_-_DSC09116.JPG",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Main_Quad_-_UIUC_-_DSC09116.JPG?width=1280"
+    },
+    {
+      "archivo": "assets/campus/uiuc/03.jpg",
+      "alt": "Campus de University of Illinois Urbana-Champaign",
+      "autor": "Daderot",
+      "licencia": "Public domain",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Main_Quad_-_UIUC_-_DSC09118.JPG",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Main_Quad_-_UIUC_-_DSC09118.JPG?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual": "Pendiente de investigar: aún no se buscó la matrícula para internacionales",
+    "becas": "Pendiente de investigar"
+  }
+}

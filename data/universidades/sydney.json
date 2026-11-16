@@ -1,0 +1,125 @@
+{
+  "id": "sydney",
+  "nombre": "University of Sydney",
+  "ciudad": "Sídney",
+  "pais": "Australia",
+  "sitio_web": "https://www.sydney.edu.au",
+  "carreras": [
+    {
+      "nombre": "Bachelor of Advanced Computing and Bachelor of Commerce",
+      "areas": [
+        "cs-business",
+        "computer-science"
+      ],
+      "idioma": "inglés",
+      "duracion_anios": null,
+      "url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-advanced-computing-and-bachelor-of-commerce0.html"
+    }
+  ],
+  "rankings": {
+    "mundial": {
+      "sistema": "QS WUR",
+      "anio": 2027,
+      "posicion": 28,
+      "fuente": "https://xuanxiao.org/en/rankings/qs/world-university-rankings?page=1",
+      "verificado_en": "2026-11-14"
+    },
+    "especialidad": {
+      "sistema": "QS Computer Science",
+      "anio": 2026,
+      "posicion": 38,
+      "fuente": "https://xuanxiao.org/en/subjects/computer-science/au",
+      "verificado_en": "2026-11-14"
+    }
+  },
+  "becas": [
+    {
+      "nombre": "Sydney International Undergraduate Academic Excellence Scholarship",
+      "cobertura": "100% de la matrícula más SSAF, hasta 4 años",
+      "convocatoria": "Semestre 1 de 2027 cerrado; el semestre 2 de 2027 sigue abierto",
+      "via_indesgua": false,
+      "url": "https://www.sydney.edu.au/scholarships/e/sydney-international-undergraduate-academic-excellence-scholarship.html",
+      "verificado_en": "2026-11-14"
+    }
+  ],
+  "alertas": [
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "La beca de excelencia para el semestre 1 de 2027 ya cerró; solo queda la entrada del semestre 2 (julio)."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Piden un inglés más alto que otros (IELTS 7.0)."
+    },
+    {
+      "nivel": "tomar-en-cuenta",
+      "texto": "Confirmar si aceptan el Bachillerato guatemalteco o si piden SAT/AP o un año de Foundation."
+    }
+  ],
+  "fotos": [
+    {
+      "archivo": "assets/campus/sydney/01.jpg",
+      "alt": "Campus de University of Sydney",
+      "autor": "Jason Tong",
+      "licencia": "CC BY-SA 3.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:The_University_of_Sydney%27s_Main_Quadrangle.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/The_University_of_Sydney%27s_Main_Quadrangle.jpg?width=1280"
+    },
+    {
+      "archivo": "assets/campus/sydney/02.jpg",
+      "alt": "Campus de University of Sydney",
+      "autor": "Jason Tong",
+      "licencia": "CC BY 2.0",
+      "url_origen": "https://commons.wikimedia.org/wiki/File:Main_Quadrangle%2C_University_of_Sydney_%28cropped%29.jpg",
+      "url_remota": "https://commons.wikimedia.org/wiki/Special:FilePath/Main_Quadrangle%2C_University_of_Sydney_%28cropped%29.jpg?width=1280"
+    }
+  ],
+  "sin_dato": {
+    "costo_anual.vida": "No se encontró una cifra oficial.",
+    "aceptacion.tasa_pct": "No publicada."
+  },
+  "costo_anual": {
+    "matricula": {
+      "valor": 63600,
+      "fuente": "https://www.sydney.edu.au/study/fees-and-loans/international-student-tuition-fees.html",
+      "verificado_en": "2026-11-14",
+      "aproximado": true
+    },
+    "vida": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "moneda": "AUD",
+    "anio_academico": "2027",
+    "nota": "Las páginas consultadas no dan costo de vida."
+  },
+  "aceptacion": {
+    "tasa_pct": {
+      "valor": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "ambito": null
+  },
+  "requisitos": {
+    "sat": {
+      "requerido": false,
+      "minimo": null,
+      "p25": null,
+      "p75": null,
+      "fuente": "https://www.sydney.edu.au/dam/corporate/documents/study/how-to-apply/international-admission-guide.pdf",
+      "verificado_en": "2026-11-14"
+    },
+    "ingles": {
+      "examen": null,
+      "minimo": null,
+      "fuente": null,
+      "verificado_en": null
+    },
+    "gpa_referencia": null,
+    "tipo_admision": "numerica",
+    "nota": "Evalúan la equivalencia con el ATAR según el país; la guía no menciona Guatemala. Para EE. UU. el SAT es una opción. Idioma: TOEFL iBT 96 (L/R/S 17, W 19); IELTS 7.0 (6.0 por sección)."
+  },
+  "fotos_busqueda": "University of Sydney Quadrangle"
+}
